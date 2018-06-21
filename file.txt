@@ -1,0 +1,1138 @@
+
+ID cmi -- REQ -- N° Demande -- Affecté à -- Application -- Titre du devis ou de la demande -- Commentaire de suivi -- CONTACT -- Type d'évolution -- Type d'activité -- Statut Service Now / ITSM -- Criticité -- Ouverture du ticket -- Age (jours ouvrés) -- Affecté CAP -- Target fourniture devis -- Fourniture Devis -- Fourniture Devis Final -- Validation Devis -- Target Livraison -- Résolution / Livraison recette -- Vendu de l'activité (incluant les frais) -- Statut Devis -- DRC1 -- DRC2 -- DFD -- DTD -- DRE -- ESR -- Facture -- Montant payé dans la facture -- Commande -- Owner -- Date de commande -- Validation commande -- Commande -- Mois de commande -- Année de commande -- Année budget -- UO -- Montant restant à ventiler -- Avant 2017 -- Facture 01/17 -- 42736.0 -- Facture 02/17 -- 42767.0 -- Facture 3/17 -- 42795.0 -- Fature 4/17 -- 42826.0 -- Facture 5/17 -- 42856.0 -- Facture 6/17 -- 42887.0 -- Facture 7/17 -- 42917.0 -- Facture 8/17 -- 42948.0 -- Facture 9/17 -- 42979.0 -- Facture 10/17 -- 43009.0 -- Facture 11/17 -- 43040.0 -- Facture 12/17 -- 43070.0 -- Facture 01/18 -- 43101.0 -- Facture 02/18 -- 43132.0 -- Facture 03/18 -- 43160.0 -- 43191.0 -- 43221.0 -- 43252.0 -- 43282.0 -- 43313.0 -- 43344.0 -- 43374.0 -- 43405.0 -- 43435.0 -- 
+635.0 -- artf87593 -- Jobs SSIS -- Devis pour Analyse / Incident - Job SSIS - INC000001624559 - Import Article -- 201804xx : Ticket rouvert et revenu chez Capgemini
+20180416 : Ticket passé à Résolu par Liz Palmer -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 42751.0 -- 42788.0 -- 304.0 -- Payé -- AV03-17 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 
+929.0 -- INCT000075698  -- Chloé -- ESM -- [Applications Web] Dysfonctionnement -- 20180607 : Le centre de cout n'est pas modifiable pour une mutation. Mail envoyé + Specs. Fermeture du ticket.
+20180524 : Contact de l'utilisatrice
+20180426 : Description de l'inc : "impossible de modifier le centre de cout car il est préétabli, pas de message d'erreur" -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43216.0 -- 43216.0 -- 43258.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 304.0 -- 
+931.0 -- INCT000078306  -- Thibault -- Webi -- Rapport WebI - Extraction des FTT_test_FFT_ avec Y-S-FFT_OK en intégration -- 20180430 : Réception de l'INC -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43220.0 -- 43220.0 -- 43250.0 -- 43248.0 -- 880.0 -- 9.020084746E9 -- 43221.0 -- 880.0 -- 
+INCT000106131  -- Completion Traca -- Completion Traca - Dysfonctionnement -- 201800605 : http://www.fgr.sds.safran/completiontraca/ les utilisateur arrivent a ouvrir la page mais quand ils tapent le no d un article rien s' affiche  -- Patrice MARIE -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43256.0 -- 43256.0 -- 
+INCT000106722  -- BUYBOX -- Christelle CARIOU -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43251.0 -- 
+777.0 -- INCT000023665 -- SCORE CARD -- application COCKPIT ACHATS - SCORE-CARD FOURNISSEURS - timeout importation du fichier de données -- 20180503 : Application Hors TMA
+20180411 : Réaffectation du ticket: L'application est TraceImportScorecard -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43166.0 -- 0.0 -- 9.020084746E9 -- 
+932.0 -- INCT000078627  -- William -- HELIUM -- Impossibilité d'effectuer des extractions dans l'outil HELIUM (profil Admin). -- 20180430 : L'utilisateur a refait une extraction OK
+20180430 : Réception de l'INC -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43220.0 -- 43220.0 -- 
+937.0 -- INCT000081358 -- William -- Cockpit Operator -- Cockpit- Dysfonctionnement -- 20180517 : Wrong Assignation (mail jeu. 17/05/2018 11:55)
+20180516 : Contact de l'utilisateur. En attente de rappel --> Proposer RDV
+20180503 : L'utilisatrice indique que Cockpit Atelier est plante. Dans le centre de documentations ,aucun document n'est pas mis à jour.  -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43223.0 -- 43223.0 -- 43237.0 -- 0.0 -- 9.020084746E9 -- 
+938.0 -- INCT000078627 -- Simon -- HELIUM -- Impossibilité d'effectuer des extractions dans l'outil HELIUM (profil Admin). A transférer au groupe support FR.AppsMgmt.SED.L3.Tma.Capgemini -- 201605016 : Impossible de reproduire l'anomalie. A clôturer -- TMC - Correctif - DRC1 -- 8 - Résolu -- 2 - High -- 43220.0 -- 43236.0 -- 0.0 -- 9.020084746E9 -- 
+INCT000092483  -- Simon -- BUYBOX -- [Applications Web] Dysfonctionnement -- 20180518 : Impossible de lier un Fournisseur à un fabricant dans le menu CHARGE DE TRAVAIL - ACHETEUR - ARTICLES A VALIDER POUR RFQ incident survenu le 17/05/2018 suite mise en production du correctif de l'incident INCT000037475 -- Christelle CARIOU -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43237.0 -- 43238.0 -- 
+798.0 -- INCT000067613 -- Alaric -- Jobs SSIS -- La mise à jour de la source de données de la base articles n'a pas fonctionné (voir fichier pièce jointe). -- 20180427 : Le job a retourné. Métier OK pour clore l'INC -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43208.0 -- 43208.90390046296 -- 
+INCT000119147 -- SCORE CARD -- application COCKPIT ACHATS - SCORE-CARD FOURNISSEURS - Rapport incomplet : pas de données liées aux commandes ouvertes -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43263.0 -- 
+816.0 -- N/A -- SOCLE -- Socle Janvier 2018 -- TME - Evolutif -- 9 - Terminé -- 43175.0 -- 43182.0 -- 43206.0 -- 1608.0 -- En cours -- AV21-17 -- 63501111803497 -- 9.02005077E9 -- 43101.0 -- 0.0 -- 63501111803497 -- 
+INCT000116866 -- TRS -- applicatif TRS avec nouvelle donnée non validée -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43262.0 -- 
+INCT000118540 -- BI -- BI4 – Univers GITIS – Extraction des FFT -- TMC - Correctif - DRC1 -- 1 - Affecté -- 3 - Medium -- 43263.0 -- 
+834.0 -- WO0000001261899 -- William -- Vex -- TMA-DEVIS-REPORTING-FEBE Evolution Outil VEX -- 20180306 : Réception de la demande. -- TME - Evolutif -- 2 - En Chiffrage -- 43165.0 -- 9.020084746E9 -- 0.0 -- 
+INCT000092959  -- Chloé -- Suivi Ordre -- Suivi ordre - Dysfonctionnement -- 20180518 : Problème d'affichage OF  -- Sonia BEN-AMAR -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43238.0 -- 43238.0 -- 43244.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 304.0 -- 
+803.0 -- N/A -- Incidents ITSM -- Analyses/Incidents depuis le 13 decembre jusqu'au 30 janvier -- Mise en place -- 7 - Recette SAFRAN -- En cours -- AV02-18 -- 63501111803497 -- 9.02005077E9 -- 43101.0 -- 0.0 -- 63501111803497 -- 
+804.0 -- N/A -- Incidents ITSM -- Analyses/Incidents depuis le 15 novembre jusqu'au 12 décembre -- BI4  -- 7 - Recette SAFRAN -- En cours -- AV02-18 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+823.0 -- WO0000001186639 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°13 -- BI4  -- 7 - Recette SAFRAN -- 43194.0 -- 4852.0 -- En cours -- AV02-18 -- 9.020084745E9 -- 43132.0 -- 0.0 -- 
+830.0 -- WO0000001201531 -- Gestion Structures -- Nouvel environnement d'intégration - Gestion Structures (WO0000001201531) -- Mise en place -- 7 - Recette SAFRAN -- 43133.0 -- 950.0 -- En cours -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+833.0 -- WO0000001260783 -- Suivi Ordre -- PAC - Rapport Temps Machine - Ouverture aux autres sites -- TME - Evolutif -- 7 - Recette SAFRAN -- 43180.0 -- 43181.0 -- 43182.0 -- 842.0 -- En Cours -- 43160.0 -- 9.02005077E9 -- 43160.0 -- 0.0 -- 842.0 -- 
+835.0 -- WO0000001262673 -- Vex -- Evolution du calcul des classes ABC dans l'outil VEX -- TME - Evolutif -- 7 - Recette SAFRAN -- 43167.0 -- 43178.0 -- 43178.0 -- 43182.0 -- 1684.0 -- 43160.0 -- 9.02005077E9 -- 43160.0 -- 0.0 -- 1684.0 -- 
+1.0 -- 63501111706134 -- FACTURE -- "Commande N° 9020023107-P10
+Devis pour Evolution - Data Retriever - Ajout de la date d'archivage + Export de la sélection" -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43199.0 -- 2259.4 -- 9.020023107E9 -- 
+2.0 -- 63501111706149 -- FACTURE -- "Commande N° 9020023753-P10
+ASSET Logiciel : Devis phase de réalisation DR" -- 5120.9 -- Payé -- 63501111706149 -- 9.020023753E9 -- 42767.0 -- 63501111706149 -- 5120.9 -- 
+839.0 -- REQ000002466402 -- WO0000001272312 -- William -- Vex -- TMA-DEVIS-SAP-PRODUCTION-GITIS - Modif macro AnalyseClasseFFFGiti -- reunion planifiée le : Mardi 22 14h -- TME - Evolutif -- 2 - En Chiffrage -- 43213.0 -- 43213.0 -- 
+797.0 -- INCT000066887 -- William -- HELIUM -- 20180426 : Le logiciel est ok avec le DDD -> FEBE en construction. Fermeture du ticket
+20180424 : Analyse en cours avec les retours de Webex
+20180420 : L'incident n'est toujours pas dans le groupe TMA Capgemini
+20180419 : Webex OK --> Analyse en cours
+20180418 : Webex planifiée pour le 19/04 -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43208.0 -- 43216.0 -- 
+752.0 -- INC000001839195 -- BI4 - 0H -- Devis pour Activité BI4 - INC000001839195 -- BI4 -- 8 - Résolu -- 43083.0 -- 43083.0 -- 880.0 -- En cours -- 9.020084745E9 -- 43132.0 -- 0.0 -- 880.0 -- 
+753.0 -- INC000001900650 -- Kiosque -- Déplacement ALARIC Kiosque - 27 et 28 mars 2018 -- 8 - Résolu -- 43056.0 -- 43180.0 -- 43181.0 -- 43182.0 -- 739.0 -- En Cours -- 43160.0 -- 9.020084746E9 -- 43160.0 -- 0.0 -- 739.0 -- 
+755.0 -- INC000001908185 -- RETEX -- Devis correction incident RETEX - INC000001908185  -- 20180307 : A fichier dans lequel l'utilisateur a l'impression que toutes les données n'ont pas été importées --> Autre analyse. Traitement normal ?
+20180216 : Correctif pour import des fichiers
+Impossible d'importer les fichiers -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43117.0 -- 43147.0 -- 798.0 -- En cours -- 9.020084746E9 -- 43132.0 -- 0.0 -- 798.0 -- 
+757.0 -- INC000001947531 -- Jobs SSIS -- Devis correction incident CCR Société - INC000001947531 -- TMC - Correctif - DRC2 -- 8 - Résolu -- 43168.0 -- 798.0 -- En cours -- AV01-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 798.0 -- 
+758.0 -- INC000001970808 -- Analyse Adhérence PDP -- Devis correction incident Analyse Adhérence PDP - INC000001970808  -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43129.0 -- 43153.0 -- 798.0 -- En cours -- 9.020084746E9 -- 43132.0 -- 0.0 -- 798.0 -- 
+759.0 -- INC000001975647  -- BI4 -- BI4 – Univers GITIS différent entre V23 et P23 -- BI4 -- 8 - Résolu -- 43167.0 -- 43138.0 -- 880.0 -- En Cours -- 43160.0 -- 9.020084745E9 -- 43160.0 -- 0.0 -- 880.0 -- 
+760.0 -- INC000001975648 -- BI4 -- BI4 – P23 - Problème lors de l'exécution du rapport "Extraction des FFT" -- BI4 -- 8 - Résolu -- 43175.0 -- 43167.0 -- 880.0 -- En Cours -- 43160.0 -- 9.020084745E9 -- 43160.0 -- 0.0 -- 880.0 -- 
+936.0 -- WO0000001274271  -- William -- Jobs SSIS -- Mise à jour du document de réference Cartographie des Jobs SSIS -- 20180504 : mail P. Clainchard --> Suite à une discussion avec Xavier L. mettez cette demande en standby pour le moment.
+Intégrer les nouveaux jobs créés par les internes SED
+Intégrer la maj des users (INC Alaric) -- TME - Evolutif -- 3 - Devis Emis -- 4 - Low -- 43223.0 -- 43223.0 -- 43258.0 -- 722.0 -- 9.020084746E9 -- 
+762.0 -- INC000001985178 -- Projection VEX -- Devis pour Projection VEX - artf88784 (complément installation intégration) -- Mise en place -- 8 - Résolu -- 43157.0 -- 950.0 -- En cours -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+764.0 -- INC000001997628  -- Jobs SSIS -- Trace: Importation articles (4h00) -- 20180409 : Support téléphonique déblocage X. LEGOASTER
+20180326 : pas de logs pour analyser -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43185.0 -- 43199.0 -- 380.0 -- 9.020084746E9 -- 43191.0 -- 380.0 -- 
+765.0 -- INC000001997719  -- Jobs SSIS -- Trace: Importation articles -sans CCR- (12h) - check KO -- 20180409 : Support téléphonique déblocage X. LEGOASTER
+20180326 : pas de logs pour analyser -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43185.0 -- 43199.0 -- 380.0 -- 9.020084746E9 -- 43191.0 -- 380.0 -- 
+768.0 -- INC000001998772 -- Jobs SSIS -- MyData Automatique - KO -- Doublon INCT000038956 -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43195.0 -- 43195.0 -- 0.0 -- 9.020084746E9 -- 
+770.0 -- INC000001999815 -- Jobs SSIS -- MyData Automatique - KO -- Idem Incident Service Now 38956 -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43199.0 -- 43200.0 -- 0.0 -- 9.020084746E9 -- 
+771.0 -- INC000001999913 -- Alaric -- Jobs SSIS -- Base Ordo: importation donnees KO -- 20180413 : Doublon du INCT000057996 -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43199.0 -- 43203.0 -- 0.0 -- 9.020084746E9 -- 
+772.0 -- INC000001999914 -- William -- Jobs SSIS -- Oracle_Import_Classification KO -- 20180416 : Exécution OK
+20180413 : Attente prochaine execution -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43199.0 -- 43206.0 -- 0.0 -- 9.020084746E9 -- 
+773.0 -- INCT000009763 -- BI4 -- BI4 - Liens cassés dans univers BI4 ZERO_HEURE -- BI4 -- 8 - Résolu -- 43174.0 -- 43174.0 -- 660.0 -- En Cours -- 43160.0 -- 9.020084745E9 -- 43160.0 -- 660.0 -- 
+774.0 -- INCT000014167 -- AEI -- Problème de visualistion du budget dans AEI  -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43164.0 -- 43186.0 -- 798.0 -- 43160.0 -- 9.02005077E9 -- 43160.0 -- 798.0 -- 
+775.0 -- INCT000015368 -- BI4 -- Anomalie de fonctionnement sur le résultat d'une requête planifiée BI4 -- Demande d'analyse -- TMC - Correctif - DRC1 -- 8 - Résolu -- 43159.0 -- 9.020084745E9 -- 
+776.0 -- INCT000020187 -- Buybox -- Importation RFQ KO -- TMA - Garantie -- 8 - Résolu -- 43166.0 -- 43179.0 -- 0.0 -- 9.020084746E9 -- 
+783.0 -- INCT000038954 -- Jobs SSIS -- Erreur d'execution des jobs SQL SRV1048 - Trace : importation traça MyData -- 20180404 : Lié à INCT000038956 -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43180.0 -- 43194.0 -- 0.0 -- 9.020084746E9 -- 
+786.0 -- INCT000042195 -- BI4 -- BI4 - AlimentationQualité KO sur PROD -- Analyse faite le 28/03/2018. Correction OK sur P03 -- BI4 -- 8 - Résolu -- 43187.0 -- 440.0 -- 9.020084745E9 -- 43191.0 -- 440.0 -- 
+787.0 -- INCT000050863 -- William -- Fond Documentaire -- Fond documentaire (étiquette) -- 20180420 : Correction OK en production. Fermeture du ticket
+20180418 : Réunion OK. Analyse du problème terminée. Rattrapage des données à prévoir. Création du script OK. Livraison OK
+20180417 : Ticket reparti au helpdesk ??
+20180416 : Réponse O. LECOMPTE. Proposition de réunion effectuée
+20180416 : Relance O. LECOMPTE
+20180413 : Contact téléphone O.LECOMPTE sans réponse. Envoi d'un mail. -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43193.0 -- 43193.0 -- 43208.0 -- 798.0 -- 9.020084746E9 -- 43221.0 -- 
+789.0 -- INCT000055204 -- William -- VEX --  EXEC VEX.usp_getCouvertureStock @idmois=10,@LstDivision='1',@typeAffichage=2 -- 20180416 : doubon INCT000059316 -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43196.0 -- 43206.0 -- 0.0 -- 9.020084746E9 -- 
+790.0 -- INCT000057996 -- Alaric -- Jobs SSIS -- L'actualisation des Sources de données ne se fait plus -- 20180417 : Job OK en production
+20180416 : Livraison du correctif. En attente passage en production
+20180413 : Analyse effectuée. Correction créée. Tests à réaliser lundi 16 matin pour une livraison dans la journée. -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43200.0 -- 43206.0 -- 798.0 -- En Cours -- 9.020084746E9 -- 798.0 -- 
+805.0 -- N/A -- Incidents ITSM -- Analyses/Incidents depuis le 31 janvier jusqu'au 27 février -- 20180307 : A fichier dans lequel l'utilisateur a l'impression que toutes les données n'ont pas été importées --> Autre analyse. Traitement normal ?
+20180216 : Correctif pour import des fichiers
+Impossible d'importer les fichiers -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43117.0 -- 1520.0 -- En cours -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+813.0 -- N/A -- Jobs SSIS -- Devis pour ajout des logs sur jobs SSIS -- TME - Evolutif -- 8 - Résolu -- 43168.0 -- 3964.0 -- En cours -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 3964.0 -- 
+814.0 -- N/A -- Fond Documentaire -- PAC : Fond Documentaire - Ajout fichiers .zip -- BI4 -- 8 - Résolu -- 43083.0 -- 1263.0 -- En cours -- AV02-18 -- 9.020084746E9 -- 43132.0 -- 0.0 -- 1263.0 -- 
+878.0 -- Suivi Ordre -- Emargements sur OS - Proposition avec enlèvement de TRACE -- 8 - Résolu -- 43056.0 -- 43180.0 -- 43181.0 -- Attente GO -- Pas de commande -- 0.0 -- 
+795.0 -- INCT000060608 -- Chloé -- Suivi Ordre -- Suivi ordre - Problème de connexion -- 20180413 : Problème sur l'intégration --> ticket non valide -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43201.0 -- 43203.0 -- 0.0 -- 9.020084746E9 -- 
+832.0 -- WO0000001259429 -- BI4 -- BI4 Ajout table ADR6 dans GITIS -- BI4 -- 9 - Terminé -- 43182.0 -- 43175.0 -- 43195.0 -- 1861.0 -- En Cours -- 9.020084745E9 -- 43191.0 -- 0.0 -- 1861.0 -- 
+78.0 -- artf07001451 -- BI4 - 0H -- Devis pour Activité BI4 - 0 Heure – Support MEP -- BI4  -- 9 - Terminé -- 43115.0 -- 2017.0 -- 3520.0 -- Terminé -- AV18-17 -- 63501111744747 -- 9.020072374E9 -- 43009.0 -- 0.0 -- 63501111744747 -- 
+79.0 -- artf07001547 -- Autre -- Devis pour Analyse/Incident multiples incidents ITSM Octobre -- BI4  -- 9 - Terminé -- 43115.0 -- 2017.0 -- 3344.0 -- Terminé -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+799.0 -- INCT000068688 -- Alaric -- Jobs SSIS -- L'actualisation des Sources de données Trace report et base ordo ne s'est pas faite -- 20180423 : Job ok. Fermeture de l'INC
+20180419 : Le job baseOrdo s'est correctement exécuté à 12h. En attente de la prochaine exécution. -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43209.0 -- 43213.0 -- 
+928.0 -- INCT000050885 -- [SAP] Incident fonctionnel -- 20180425 : Olivier LECOMPTE a fermé son INC. Le problème n'est plus présent -- 8 - Résolu -- 3 - Medium -- 43193.0 -- 43214.0 -- 43215.0 -- 9.020084746E9 -- 
+861.0 -- Suivi Ordre -- Constitution - Proposition avec enlèvement de TRACE -- TME - Evolutif -- 8 - Résolu -- 43181.0 -- Pas de commande -- 0.0 -- 
+934.0 -- INCT000080390   -- Alaric -- Fond Documentaire -- FONDDOCUMENTAIRE -- 20180503 : Analyse détaillée de l'INC. Tests avec l'utilisateur. L'incident ne peut pas être résolu par l'application mais par le support ADOBE: Problème du composant Adobe Acrobat DC --> Réaffecté
+20180502 : Réception de l'INC : Soucis d’ accès au document lié sur le fond documentaire. En attente réponse utilisateur (Cela fonctionne sur nos postes) -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43222.0 -- 43222.0 -- 43223.0 -- 304.0 -- 43221.0 -- 
+829.0 -- WO0000001193990  -- Decaweb -- TMA-DEVIS-COLLABORATIF-ARCHIVAGE-Decaweb V8 - Banc de test FGR -- 20180618 : Atelier pour revoir la FEBE. Cette dernière n'est pas bonne. Il faut revoir l'ensemble du besoin. Didier Cotte -> S'adresser à Sophie Le Nagard pour les questions.
+20180606 : Reprise de la FEBE. Chiffrage en cours
+20180305 : Réception de la demande. FEBE à construire par le métier -- Rémi BUTTEUX -- TME - Evolutif -- 2 - En Chiffrage -- 43136.0 -- 9.020084746E9 -- 0.0 -- 
+837.0 -- WO0000001265384 -- BI4 -- TMA-DEVIS-SAP-BW-Evol univers Qualité BI4 & extraction -- 20180418 : Revue du devis: suppression de la doc
+20180406 : Fourniture d'un devis
+20180321 : Besoin d'un atelier -- BI4 -- 6 - En Validation -- 43180.0 -- 43196.0 -- 43216.0 -- 43235.0 -- 2707.0 -- Attente GO -- 9.020084745E9 -- 0.0 -- 
+WO0000001221444  -- PRISMA -- [PRISMA] TMA-DEVIS-COLLABORATIF-ARCHIVAGE-PRISMA / CAP -- REMI BUTEUX -- 2 - En Chiffrage -- 2 - High -- 43244.0 -- 
+633.0 -- artf87573 -- Projection VEX -- Devis pour Projection VEX - artf87573 - analyse de code -- TME - Evolutif -- Annulé -- 2890.0 -- Attente GO -- Pas de commande -- 43132.0 -- 0.0 -- 
+821.0 -- WO0000001186267 -- RETEX -- Devis pour WO0000001186267 - RETEX -- TME - Evolutif -- Annulé -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+822.0 -- WO0000001186268 -- RETEX -- Devis pour WO0000001186268 - RETEX -- TME - Evolutif -- Annulé -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+836.0 -- WO0000001264195 -- Suivi Ordre -- PAC - Rattrapage des données sur 2 ans -- 20180419 : A rechiffrer avant 24/04 car clôture ARIBA -- TME - Evolutif - PAC -- 7 - Recette SAFRAN -- 43181.0 -- 43215.0 -- 4210.0 -- Attente GO -- 9.020084745E9 -- 43160.0 -- 
+530.0 -- artf70827  -- Autres -- Devis d'entrée en TMA pour artf70260 : Entrée en TMA de plusieurs applications DSI -- 20180423 : Ce batch est inconnu à Capgemini --> Wrong Assignation
+Mise en production de nouveaux batch ? Documentation existante ? Sur quelle base travaille ce job ? Modifie-t-il des données ? -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43213.0 -- 43213.0 -- 2016.0 -- 27035.0 -- Terminé -- AV06-16 -- 9.020023107E9 -- 27035.0 -- 
+556.0 -- artf80911  -- Autres -- Entrée en TMA de plusieurs applications DSI -- 20180424 : Les gestions des droits sur la production ne sont pas dans le périmètre TMA Capgemini -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43206.0 -- 43214.0 -- 2017.0 -- 11210.0 -- Terminé -- AV11-16 -- 63501111803497 -- 5044.5 -- 9.02005077E9 -- 43101.0 -- 63501111803497 -- 5044.5 -- 
+INCT000102030  -- Simon -- Buybox -- Source de données KO - commande SQL --> EXEC [ACHAT].[usp_getPlanificationAchat_TESTPOURSEBASTIEN_all] -- 20180604 : Analyse OK . Fermeture du ticket
+20180529 : Analyse lancée le 28/05. -- Christelle Cariou -- TMC - Correctif - DRC1 -- 8 - Résolu -- 2 - High  -- 43248.0 -- 43249.0 -- 43255.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 304.0 -- 
+766.0 -- INC000001998044 -- Jobs SSIS -- Trace: Importation hierarchie document process et maintenace - 30/03 check KO -- Mauvaise affectation -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43189.0 -- 43195.0 -- 0.0 -- 9.020084746E9 -- 
+767.0 -- INC000001998107 -- BI4 -- Please check why production plan is Absente on P43. -- 20180409 : Pas de notre service --> Réaffectation -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43188.0 -- 43199.0 -- 0.0 -- 9.020084745E9 -- 
+769.0 -- INC000001999003  -- Jobs SSIS -- Check Traitement SQL - link KO  -- Problème infra -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43196.0 -- 43196.0 -- 0.0 -- 9.020084746E9 -- 
+763.0 -- INC000001987497 -- William -- Base Ordo -- Connexion NOK Baseordo usp_GetTableStepConfirmedLight -- 20180504 : Ajouter les PJ mails à ITSM
+20180420 : Relance ce jour
+20180413 : relance ven. 13/04/2018 11:10
+20180413 : ven. 13/04/2018 10:57 MAIL -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43146.0 -- 9.020084746E9 -- 
+788.0 -- INCT000050885 -- Thibault -- BI4 -- [SAP] Incident fonctionnel -- 20180413 : Réaffecté. Support SAP -- BI4 -- Réaffecté -- 43193.0 -- 9.020084745E9 -- 
+792.0 -- INCT000058191 -- Alaric -- Fond Documentaire --  FondDocumentaire - Dysfonctionnement -- 20180418 : Analyse OK --> Problème SAP --> Transfert vers les équipes ATOS
+20180416 : Problème d'autorisation sur la récupération du fichier via le WS -- TMC - Correctif - DRC1 -- Réaffecté -- 2 - High -- 43200.0 -- 43208.0 -- 304.0 -- 9.020084746E9 -- 43191.0 -- 304.0 -- 
+796.0 -- INCT000064586 -- 18/04 CALL AGAIN Perte des droits sur le serveur de production -- 20180424 : Les gestions des droits sur la production ne sont pas dans le périmètre TMA Capgemini -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43206.0 -- 43214.0 -- 
+3.0 -- 63501111706149 -- FACTURE -- "Commande N° 9020023753-P10
+Devis pour Analyse/Incident - ESM - artf81031 (Tâche en cours)" -- 304.0 -- 9.020023753E9 -- 
+4.0 -- 63501111706149 -- FACTURE -- "Commande N° 9020023753-P10
+Devis pour Evolution - Data Retriever - Pagination de l'écran de conultation des logs" -- 547.3 -- Payé -- 63501111706149 -- 9.020023753E9 -- 42767.0 -- 63501111706149 -- 547.3 -- 
+5.0 -- 63501111706149 -- FACTURE -- "Commande N° 9020023753-P10
+TRS - Version 2.1" -- 483.3 -- 9.020023753E9 -- 
+6.0 -- 63501111706149 -- FACTURE -- "Commande N° 9020023753-P10
+WEST - Devis de phase de cadrage - Outil RSTE" -- 15579.0 -- 9.020023753E9 -- 
+7.0 -- 63501111713518 -- FACTURE -- "N° bdc 9020023753-P10
+Gestion des Prestataires - Devis de réalisation version 1.3.0" -- 387.3 -- 9.020023753E9 -- 
+8.0 -- 63501111720521 -- FACTURE -- "Commande n°9020023753-P10
+Devis Analyse / Incident : artf61873 : Impossibilité d'export statistiques collaborateur " -- 304.0 -- 9.020023753E9 -- 
+9.0 -- 63501111720521 -- FACTURE -- "Commande n°9020023753-P10
+Devis pour Evolution - Data Retriever - Ajout de la date d'archivage + Export de la sélection " -- 869.0 -- 9.020023753E9 -- 
+10.0 -- 63501111720521 -- FACTURE -- "Commande n°9020023753-P10
+Devis pour Evolution - Data Retriever - Pagination de l'écran de conultation des logs " -- 210.5 -- 9.020023753E9 -- 
+11.0 -- 63501111720521 -- FACTURE -- "Commande n°9020023753-P10
+Entrée en TMA : Rédaction Documentaire de WS Extraction SAP " -- 5776.0 -- 9.020023753E9 -- 
+12.0 -- 63501111722007 -- FACTURE -- Commande n°90200211915-P10
+Devis pour Activité BI4 - GITIS WO849536 (artf77312) -- 8559.0 -- 9.0200211915E10 -- 
+13.0 -- 63501111722007 -- FACTURE -- Commande n°90200211915-P10
+Devis pour Activité BI4 - Univers Zéroheure - Correctif à apporter (artf87905) -- 1555.2 -- 9.0200211915E10 -- 
+14.0 -- 63501111722007 -- FACTURE -- Commande n°90200211915-P10
+Devis pour Activité BI4 - Univers Zéroheure - Correctif à apporter (artf88535) -- 2692.8 -- 9.0200211915E10 -- 
+15.0 -- 63501111722007 -- FACTURE -- Commande n°90200211915-P10
+Devis pour Activité BI4 -PRMO - Correctif UniversQualité_H.unx -- 1555.2 -- 9.0200211915E10 -- 
+16.0 -- 63501111722009 -- FACTURE -- Commande n°9020040223-P10
+RETEX - Version 3.1 (Avis de Service 0 heure) -- 8088.6 -- 9.020040223E9 -- 
+17.0 -- 63501111723410 -- FACTURE -- Commande n°9020040223-P10
+RETEX - Version 3.1 (Avis de Service 0 heure) -- 3111.0 -- 9.020040223E9 -- 
+18.0 -- 63501111733712 -- FACTURE -- Commande n°9020040223-P10
+RETEX - Version 3.1 (Avis de Service 0 heure) -- 1244.4 -- 9.020040223E9 -- 
+19.0 -- 63501111733712 -- FACTURE -- Commande n°9020059909-P10
+RETEX V3.3 – Ajustements EBI3 -- 2189.2 -- 9.020059909E9 -- 
+20.0 -- 63501111751562 -- DOUBLON 63501111751563 -- Commande n°9020021915-P10
+Devis pour Activité BI4 - GITIS – Complément extraction des FFT (artf91224) -- 259.9 -- 9.020021915E9 -- 
+21.0 -- 63501111751562 -- DOUBLON 63501111751563 -- Commande n°9020021915-P10
+Devis pour Activité BI4 - PRMO - Correctif (Univers Qualité) (artf91203) -- 85.9 -- 9.020021915E9 -- 
+22.0 -- 63501111751562 -- DOUBLON 63501111751563 -- Commande n°9020021915-P10
+Devis pour Activité BI4 - PRMO – Rapports statistiques (artf91207) -- 399.4 -- 9.020021915E9 -- 
+23.0 -- 63501111751562 -- DOUBLON 63501111751563 -- Commande n°9020021915-P10
+Devis pour Activité BI4 - Univers GITIS - Nouvel Univers (artf88259) -- 814.0 -- 9.020021915E9 -- 
+24.0 -- 63501111754784 -- FACTURE -- Commande n°9020021915-P10
+Avoir sur facture 63501111751563 -- -1559.2 -- 9.020021915E9 -- 
+25.0 --  artf42619 -- HELIUM -- Supprimer de l'export BDD pour debug, de AI montant -- TME - Evolutif -- 0.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 0.0 -- 
+26.0 -- artf07000054 -- Analyse Adhérence PDP -- Projet PAC - Analyse Adhérence PDP -- BI4  -- 2018.0 -- 4446.0 -- Terminé -- AV17-17 -- 9.020066749E9 -- 42979.0 -- 0.0 -- 4446.0 -- 
+27.0 -- artf07000055 -- Analyse Adhérence PDP -- Devis pour correction anomalie Analyse Adhérence PDP (artf91427) - point1 -- BI4  -- 798.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+28.0 -- artf07000057 -- Jobs SSIS -- Devis pour analyse incident INC000001774037 job « Achats Importation Datasheet » -- TMC - Correctif -- 304.0 -- En cours (déjà payé ligne 541) -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+29.0 -- artf07000057 -- Analyse Adhérence PDP -- Devis pour correction anomalie Analyse Adhérence PDP (artf91427) - points2&3 -- TME - Evolutif -- 798.0 -- Payé -- AV16-17 -- 63501111741060 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741060 -- 
+30.0 -- artf07000058 -- RETEX -- Devis pour Analyse - RETEX - EBI intégration FTD 300118272 (artf91671) -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+31.0 -- artf07000059 -- Gestion Article -- GestionArticle - CCR - Ajout de section industrielle dans l'application (artf88763) -- TMC - Correctif -- 2526.0 -- Attente GO -- Pas de commande -- 0.0 -- 
+32.0 -- artf07000060 -- Trace Add -- Entrée en TMA Trace Add - DI -- Demande Support -- 2018.0 -- 1625.0 -- Terminé -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+33.0 -- artf07000061 -- Trace Add -- Entrée en TMA Trace Add - DT -- TME - Evolutif -- 2018.0 -- 2166.0 -- Terminé -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+34.0 -- artf07000062 -- Trace Add -- Entrée en TMA Trace Add - DATG -- Entrée en TMA -- 2018.0 -- 2166.0 -- Terminé -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+35.0 -- artf07000063 -- Jobs SSIS -- Devis pour analyse incident INC000001777626  -- Entrée en TMA -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+36.0 -- artf07000064 -- Jobs SSIS -- Devis pour analyse incident INC000001778574 -- Entrée en TMA -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+37.0 -- artf07000065 -- Jobs SSIS -- Devis pour analyse incident INC000001781006 : Job Oracle_Import_classification -- TMC - Correctif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+38.0 -- artf07000066 -- Jobs SSIS -- Devis pour analyse incident INC000001782350 - Rapports : problème d'accès au SRV-1048 -- TMC - Correctif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+artf07000119 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - PRMO_MM3 Modification Jointure (artf7000118) -- 63501111751983 -- 9.020070636E9 -- 43070.0 -- 63501111751983 -- 1972.0 -- 
+39.0 -- artf07000119 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - PRMO_MM3 Modification Jointure (artf7000118) -- TMC - Correctif -- 2017.0 -- 1972.0 -- Terminé -- AV17-17 -- 63501111751989 -- 9.020070636E9 -- 42979.0 -- 0.0 -- 63501111751989 -- 
+40.0 -- artf07000123 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Optimisation Univers MM_ARTDIV (artf91091) -- TMC - Correctif -- 2017.0 -- 2399.0 -- Terminé -- AV16-17 -- 63501111751558 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111751558 -- 
+41.0 -- artf07000184 -- Gestion Article -- Devis pour GestionArticle - artf88681- Indice GITIS pas cohérent entre l'application et GITIS -- BI4  -- 2018.0 -- 1102.0 -- Terminé -- AV02-18 -- 43132.0 -- 9.02005077E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+42.0 -- artf07000186 -- Jobs SSIS -- Devis pour analyse incident INC000001788298 -- BI4  -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+43.0 -- artf07000187 -- Jobs SSIS -- Devis pour analyse incident INC000001789806 -- TMC - Correctif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+44.0 -- artf07000199 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Correction d'un select (artf7000116) -- TMC - Correctif -- 2017.0 -- 2707.0 -- Terminé -- AV16-17 -- 63501111751558 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111751558 -- 
+45.0 -- artf07000199 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Correction d'un select (artf7000116) -- 2017.0 -- 2707.0 -- Terminé -- AV16-17 -- 63501111808079 -- 9.020070636E9 -- 43101.0 -- 63501111808079 -- 270.7 -- 
+46.0 -- artf07000199 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Correction d'un select (artf7000116) -- 2017.0 -- 2707.0 -- Terminé -- AV16-17 -- 63501111751986 -- 676.75 -- 9.020021915E9 -- 63501111751986 -- 676.75 -- 
+47.0 -- artf07000202 -- BI4 - PRMO -- Devis pour Activité 	BI4 - Univers MM ARTDIV EVOLUTION (artf91911) -- TMC - Correctif -- 2018.0 -- 1948.0 -- Terminé -- AV16-17 -- 63501111751558 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111751558 -- 
+48.0 -- artf07000202 -- BI4 - PRMO -- Devis pour Activité 	BI4 - Univers MM ARTDIV EVOLUTION (artf91911) -- 2018.0 -- 1948.0 -- Terminé -- AV16-17 -- 681.8 -- 9.020084745E9 -- 43132.0 -- 681.8 -- 
+49.0 -- artf07000288 -- AGES -- Devis pour analyse/support : artf07000282 : AGES : anomalie batch - The conversion cannot be performed -- BI4  -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+50.0 -- artf07000390 -- BI4 - CASCADE -- Devis pour Activité BI4 - CASCADE – MEP RUC_01 new (artf91606) -- BI4  -- 2017.0 -- 220.0 -- Terminé -- AV16-17 -- 63501111733725 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111733725 -- 
+51.0 -- artf07000491 -- Jobs SSIS -- Devis pour Analyse / Incident INC000001784462 -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+52.0 -- artf07000492 -- Jobs SSIS -- Devis pour Analyse / Incident INC000001785572 -- BI4  -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+53.0 -- artf07000493 -- Jobs SSIS -- Devis pour Analyse/Incident multiples incidents ITSM Août -- TMC - Correctif -- 2128.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+54.0 -- artf07000494 -- Jobs SSIS -- Devis pour Analyse / Incident INC000001810242 -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+55.0 -- artf07000495 -- Bon Livraison -- Devis pour Entrée en TMA Allégée - Bons de Livraison -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+56.0 -- artf07000496 -- Visopac -- Devis pour Entrée en TMA Allégée - Visopac -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+57.0 -- artf07000497 -- Bain Lavage -- Devis pour Entrée en TMA Allégée - Bain de Lavage -- Entrée en TMA -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+58.0 -- artf07000498 -- Trace Repair -- Devis pour Entrée en TMA Allégée - Trace Repair -- Entrée en TMA -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+59.0 -- artf07000499 -- Gestion Devis -- Devis pour Entrée en TMA Allégée - Gestion des Devis -- Entrée en TMA -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+60.0 -- artf07000500 -- Trace Setup Control -- Devis pour Entrée en TMA Allégée - Trace Setup Control -- Entrée en TMA -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+61.0 -- artf07000501 -- PFR -- Devis pour Entrée en TMA Allégée - PFR -- Entrée en TMA -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+artf07000622 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - PRMO_MM3 (artf88760) -- 63501111751983 -- 9.020070636E9 -- 43070.0 -- 63501111751983 -- 4230.2 -- 
+artf07000622 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - PRMO_MM3 (artf88760) -- 43191.0 -- 
+62.0 -- artf07000622 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - PRMO_MM3 (artf88760) -- Entrée en TMA -- 2018.0 -- 6508.0 -- Terminé -- AV17-17 -- 63501111751989 -- 9.020070636E9 -- 42979.0 -- 0.0 -- 63501111751989 -- 
+63.0 -- artf07000625 -- WS Extraction SAP -- Nouvel environnement d'intégration - Reconfiguration WS Extraction SAP 2012 Bis -- Socle -- 2018.0 -- 950.0 -- Terminé -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+63.0 -- artf07000694 -- Jobs SSIS -- Devis pour artf84526 CCR_Société : Parts main d'œuvre et Matière non égales à SAP (REQ000001920228) -- BI4  -- 2018.0 -- 3306.0 -- Terminé -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+65.0 -- artf07000724 -- Autre -- Devis pour artf88558 : FondDocumentaire (etiquette) - Manque de données -- Mise en place -- 2018.0 -- 1254.0 -- Terminé -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+66.0 -- artf07000725 -- Autre -- Devis pour analyse incident INC000001777920 (REQ000002167118) - Panne Base Retex -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+67.0 -- artf07000731 -- Autre -- Devis pour analyse incident INC000001813621 -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+68.0 -- artf07001157 -- Jobs SSIS -- Devis pour Analyse/Incident multiples incidents ITSM Septembre -- TMC - Correctif -- 6688.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+69.0 -- artf07001158 -- Autre -- Devis pour Analyse / Incident - INC000001829256 - IHS -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+70.0 -- artf07001159 -- Réception Dossier -- Devis pour Analyse / Incident - INC000001826008 Reception Dossier -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+71.0 -- artf07001160 -- KIOSQUE -- Devis pour Analyse / Incident - INC000001835036-INC000001836128-INC000001836065 - Kiosque -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+72.0 -- artf07001181 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – ajout tables "USR06" et "USER_ADDR" (REQ000002249297) -- TMC - Correctif -- 2018.0 -- 3752.0 -- Terminé -- AV18-17 -- 9.020084745E9 -- 43132.0 -- 
+73.0 -- artf07001181 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – ajout tables "USR06" et "USER_ADDR" (REQ000002249297) -- TMC - Correctif -- 2018.0 -- 3752.0 -- Terminé -- AV18-17 -- 63501111807217 -- 9.020070636E9 -- 43009.0 -- 0.0 -- 63501111807217 -- 
+74.0 -- artf07001209 -- Autre -- Devis pour Entrées en TMA Allégées Groupées -- Socle -- 2018.0 -- 4560.0 -- Terminé -- AV21-17 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+75.0 -- artf07001419 -- Jobs SSIS -- Projet PAC - Suivi Ordre - Jobs Temps Machine -- BI4  -- 2018.0 -- 4104.75 -- Terminé -- AV18-17 -- 63501111750595 -- 9.020070183E9 -- 43009.0 -- 0.0 -- 63501111750595 -- 
+76.0 -- artf07001419 -- Jobs SSIS -- Projet PAC - Suivi Ordre - Jobs Temps Machine -- 2018.0 -- 1578.75 -- Terminé -- AV18-17 -- 63501111751943 -- 1578.75 -- 9.020070183E9 -- 43070.0 -- 63501111751943 -- 1578.75 -- 
+77.0 -- artf07001419 -- Jobs SSIS -- Projet PAC - Suivi Ordre - Jobs Temps Machine -- 2018.0 -- 632.0 -- Terminé -- AV18-17 -- 631.5 -- 9.020070183E9 -- 43221.0 -- 632.0 -- 
+80.0 -- artf07001549 -- RETEX -- Devis pour Correction Anomalie - RETEX - INC000001836515 -- BI4  -- 798.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+81.0 -- artf07001550 -- Data Retriever -- Devis pour Analyse / Incident - DataRetriever inaccessible sur l'environnement d'intégration -- TMC - Correctif -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+82.0 -- artf07001551 -- RETEX -- Devis pour Analyse/Incident - RETEX v3.2 problème installation -- TMC - Correctif -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+83.0 -- artf07001556 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO – Analyse artf90785 -- TMC - Correctif -- 507.0 -- En cours -- AV21-17 -- 63501111807217 -- 9.020070636E9 -- 43101.0 -- 0.0 -- 63501111807217 -- 
+84.0 -- artf07001557 -- BI4 -- Devis pour Activité BI4 - INC000001852714 -- TMC - Correctif -- 440.0 -- En cours -- AV21-17 -- 63501111807217 -- 9.020070636E9 -- 43101.0 -- 0.0 -- 63501111807217 -- 
+85.0 -- artf07001558 -- BI4 - CASCADE -- Devis pour Activité BI4 - INC000001857006 -- BI4  -- 440.0 -- En cours -- AV20-17 -- 63501111807217 -- 9.020070636E9 -- 43070.0 -- 0.0 -- 63501111807217 -- 
+86.0 -- artf07001808 -- BI4 - PRMO -- Devis pour Activité BI4 - INC000001839195 -- BI4  -- 880.0 -- En cours -- AV20-17 -- 63501111807217 -- 9.020070636E9 -- 43070.0 -- 0.0 -- 63501111807217 -- 
+87.0 -- artf07001847 -- Suivi Ordre -- Devis 2017 - Analyse - INC000001873888 - SuiviOrdre -- Socle -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+88.0 -- artf07001848 -- Autre -- Devis 2017 - Analyse - INC000001874412 - WeShare -- BI4  -- 0.0 -- Refusé -- Refusé -- 0.0 -- 
+89.0 -- artf07001849 -- Cockpit Operator -- Devis 2017 - Analyse - INC000001875182 - CockpitOperator -- TMC - Correctif -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+90.0 -- artf07001850 -- Autre -- Devis 2017 - Analyse - INC000001882646 - AQManager -- TMC - Correctif -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+91.0 -- artf07001852 -- Jobs SSIS -- Devis 2017 - Analyse - Multiples Incidents JOBS ITSM - Octobre Bis -- TMC - Correctif -- 7296.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+92.0 -- artf07001853 -- Trace Add -- Devis 2017 - Analyse - Multiples Incidents Trace Add Octobre -- TMC - Correctif -- 912.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+93.0 -- artf07002062 -- BI4 -- Devis pour Activité BI4 - PAC - IHM FFTP -- TMC - Correctif -- 9178.0 -- En cours -- AV19-17 -- 9.020076764E9 -- 43040.0 -- 0.0 -- 9178.0 -- 
+94.0 -- artf07002092 -- Jobs SSIS -- Devis 2017 - Analyse - Multiples Incidents JOBS ITSM - Novembre -- TMC - Correctif -- 2736.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+95.0 -- artf07002093 -- Autre -- Devis 2017 - Analyse - INC000001889931 - AQ Manager -- Envoi d'une personne à Massy pour BI4 - IHM FFTP - Etienne -- BI4  -- 0.0 -- Refusé -- Refusé -- 0.0 -- 
+96.0 -- artf07002094 -- Gestion Article -- Devis 2017 - Analyse - INC000001884592 - Gestion Article -- TMC - Correctif -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+97.0 -- artf07002095 -- RatioCoutPhaseCloseDiv -- Devis 2017 - Analyse - INC000001884427 - RATIOCOUTPHASECLOSEDIV -- TMC - Correctif -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+98.0 -- artf07002096 -- Demande Informatisée -- Devis 2017 - Analyse - INC000001856039 - Demandes informatiques -- TMC - Correctif - DRC1 -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+99.0 -- artf07002097 -- Cockpit Operator -- Devis 2017 - Analyse - INC000001877123 - CockpitOperator -- TMC - Correctif - DRC1 -- 304.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+100.0 -- artf07002102 -- AGES -- Devis 2017 - Analyse - INC000001868967 - AGES -- TMC - Correctif - DRC1 -- 1102.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+101.0 -- artf07002103 -- Autre -- Devis 2017 - Support MEP ATOS - CCR_Société -- TMC - Correctif - DRC1 -- 152.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+102.0 -- artf07002104 -- Autre -- Devis 2017 - Tests infra divers -- TMC - Correctif -- 842.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+103.0 -- artf07002790 -- Rapport SSRS -- Devis 2018 - artf81320 (EtatArticleFab) -- BI4  -- 4210.0 -- Attente GO -- Pas de commande -- 0.0 -- 
+104.0 -- artf07002793   -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS - Recréation des tables DT_ERP (artf88259-90860)  -- TME - Evolutif -- 3564.0 -- En cours -- AV21-17 -- 9.020084745E9 -- 43101.0 -- 0.0 -- 
+105.0 -- artf1218041 -- KIOSQUE -- Lenteur remarquée lors de la recherche par référence sur la page "Search'in basedoc" -- TMC - Correctif -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 337.0 -- 
+106.0 -- artf1218592 -- KIOSQUE -- Analyse des paramètres actuels du service MySQL + préconisation d'un paramétrage pour journaliser les requêtes chronophages -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 2315.5 -- 
+107.0 -- artf1219202  -- KIOSQUE -- Correction d'anomalie suite à l'incident #artf1218041 (Lenteur remarquée lors de la recherche par référence sur la page "Search'in basedoc") -- TMC - Correctif -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 884.0 -- 
+108.0 -- artf1230252 -- AGES -- AGES : support pour cadrage des missions -- Demande Support -- 168.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 168.0 -- 
+108.0 -- artf1230277 -- GNAO -- GNAO : support pour cadrage des missions -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 1010.0 -- 
+110.0 -- artf1230284 -- PERENNITE -- BASE_PERENNITE :  support pour cadrage des missions -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 842.0 -- 
+111.0 -- artf1230341 -- ESM -- ESM : Entrée en TMA -- TMC - Correctif -- 2014.0 -- 1895.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 1895.0 -- 
+112.0 -- artf1230349 -- CHRONOS -- CHRONOS : Entrée en TMA -- TMC - Correctif -- 1895.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 1895.0 -- 
+113.0 -- artf1230352 -- BUYBOX -- BUY BOX : Entrée en TMA -- TMC - Correctif -- 0.0 -- Annulé -- OLD -- Annulé -- 41426.0 -- 0.0 -- 
+114.0 -- artf1230368 -- BANDOTHEQUE -- BANDOTHEQUE :  support pour cadrage des missions -- Demande Support -- 168.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 168.0 -- 
+115.0 -- artf1239988 -- SKILL -- SKILL: Demande de support -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 2105.0 -- 
+116.0 -- artf1242688 -- KIOSQUE -- KIOSQUE : Impossible de créer des comptes utilisateurs -- TMC - Correctif -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 884.0 -- 
+117.0 -- artf1242813 -- DIAPASON -- DIAPASON, module Sale Funnel, demandes E1, E2 et E5 -- TME - Evolutif -- 7939.0 -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 7939.0 -- 
+118.0 -- artf1254425  -- POWERBUILDER -- Powerbuilder, étude de décommissionnement -- Service catalogué -- 10160.0 -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 10160.0 -- 
+119.0 -- artf1255129 -- KIOSQUE -- KIOSQUE : initialisation du DDD -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 674.0 -- 
+120.0 -- artf1255276 -- - -- Demande de support sur déploiement Office 2010 -- Demande Support -- 0.0 -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 0.0 -- 
+121.0 -- artf1265740 -- KIOSQUE -- KIOSQUE : analyser le processus de stockage des documents sur DFS -- Demande Support -- Terminé -- OLD -- 7.710551236E9 -- 41456.0 -- 1578.75 -- 
+122.0 -- artf1269181 -- GNAO -- GNAO : Support à la définition du périmètre, à Massy -- Service catalogué -- 1212.0 -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 1212.0 -- 
+123.0 -- artf1270877 -- PRISMA -- PRISMA : support pour construction la matrice fonctionnelle -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 1010.0 -- 
+124.0 -- artf1279269 -- KIOSQUE -- KIOSQUE : Entrée en TMA -- TMC - Correctif -- 1895.0 -- Terminé -- OLD -- 7.71049714E9 -- 41365.0 -- 1895.0 -- 
+125.0 -- artf1279281 -- DIAPASON -- DIAPASON : Entrée en TMA -- TMC - Correctif -- 1895.0 -- Terminé -- OLD -- 7.71049714E9 -- 41365.0 -- 1895.0 -- 
+126.0 -- artf1280503 -- HELIUM -- HELIUM : support pour cadrage de la mission puis définition des besoins -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 1010.0 -- 
+127.0 -- artf1281963  -- ESM -- ESM : évolution de libellés dans les formulaires et modification lien support -- TME - Evolutif -- 934.0 -- En garantie -- OLD -- 7.71049714E9 -- 41518.0 -- 934.0 -- 
+128.0 -- artf1282151 -- HELIUM -- Demande de devis pour réalisation application Hélium - itération 1 -- TME - Evolutif mode Projet -- 67661.0 -- Terminé -- OLD -- 7.710551236E9 -- 41614.0 -- 67661.0 -- 
+129.0 -- artf1282151 -- HELIUM -- Demande de devis pour réalisation application Hélium - itération 2 -- TME - Evolutif mode Projet -- 63365.0 -- Terminé -- OLD -- 7.710551236E9 -- 41628.0 -- 63365.0 -- 
+130.0 -- artf1282151 -- HELIUM -- Demande de devis pour réalisation application Hélium - itération 3 -- TME - Evolutif mode Projet -- 61003.8 -- Terminé -- OLD -- 7.710551236E9 -- 41662.0 -- 61003.8 -- 
+131.0 -- artf1282800  -- DIAPASON -- Support à la suppression de modules obsolètes -- Service catalogué -- 2428.0 -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 2428.0 -- 
+132.0 -- artf1285127  -- BUYBOX -- Correction présentation des données dans le rapport rptDonneesAchats et évolution alertes mails -- TMC - Correctif -- 3736.0 -- Terminé -- OLD -- 7.71049714E9 -- 41518.0 -- 3736.0 -- 
+133.0 -- artf1285327 -- FICHE-PRESENCE -- FICHE-PRESENCE, demande de devis pour refonte de l'application -- TME - Evolutif mode Projet -- 18213.0 -- Terminé -- OLD -- 7.71049714E9 -- 41548.0 -- 18213.0 -- 
+134.0 -- artf1302025 -- KIOSQUE -- Kiosque - création compte utilisateur constitué de 2 caractères uniquement -- TME - Evolutif -- Terminé -- OLD -- 7.71049714E9 -- 41518.0 -- 1052.5 -- 
+135.0 -- artf1302087 -- POWERBUILDER -- Démonstrateur TIGRE : Support pour réunion préliminaire -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41518.0 -- 505.2000000000001 -- 
+136.0 -- artf1305048  -- AGES -- AGES : devis pour déplacement pour revue de conception à Massy -- TME - Evolutif mode Projet -- 850.0 -- Terminé -- OLD -- 7.71049714E9 -- 41518.0 -- 850.0 -- 
+137.0 -- artf1305124  -- CHRONOS -- Demande de création du Dossier de Test -- Service catalogué -- 560.0 -- Terminé -- OLD -- 7.71049714E9 -- 41548.0 -- 560.0 -- 
+138.0 -- artf1305140 -- SKILL -- Réaliser un audit technique de l'application SKILL -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41518.0 -- 842.0 -- 
+139.0 -- artf1306495  -- POWERBUILDER -- Demande de devis pour réalisation d'un démonstrateur TIGRE -- Devis -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+140.0 -- artf1306497 -- POWERBUILDER -- Rédaction de devis pour réalisation d'un démonstrateur TIGRE -- Service catalogué -- 0.0 -- Refusé -- Refusé -- 0.0 -- 
+141.0 -- artf1334123  -- POWERBUILDER -- Demande de devis pour extractions de données PowerBuilder au format Gitis -- Devis -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+142.0 -- artf1337773  -- SKILL -- demande de devis pour upgrade techno/fonctionnelle de l'application SKILL (mise en conformité suivant préconisations TMA-SAGEM_SKILL_ARC_2013.029_v1.0) -- TME - Evolutif mode Projet -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+143.0 -- artf1347522  -- PRISMA -- Demande de macro-chiffrage GED Sharepoint -- TME - Evolutif mode Projet -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+144.0 -- artf1347817  -- PFF -- Analyse des données SAP pour PFF -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41548.0 -- 210.5 -- 
+145.0 -- artf1348411  -- DAVE -- Demande de devis de réalisation d"un workflow Visiteurs étrangers -- TME - Evolutif mode Projet -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+146.0 -- artf1348486 -- BUYBOX -- Demande d'analyse d'un incident sur adressage des mails -- TME - Evolutif -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+147.0 -- artf1348974 -- HELIUM -- Addition d'un RDV Helium n°4 -- Service catalogué -- 9388.0 -- Terminé -- OLD -- 7.71049714E9 -- 41579.0 -- 9388.0 -- 
+148.0 -- artf1364649  -- AEI -- AEI (workflow de validation des signatures) - lot 1 -- TME - Evolutif mode Projet -- 85928.0 -- Terminé -- OLD -- 7.71049714E9 -- 41579.0 -- 85928.0 -- 
+149.0 -- artf1364904 -- HELIUM -- Support pour recueil d'exigences HELIUM -- Demande Support -- 821.0 -- Terminé -- OLD -- 7.710551236E9 -- 41579.0 -- 821.0 -- 
+150.0 -- artf1364904 -- HELIUM -- Support pour recueil d'exigences HELIUM -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41579.0 -- 1179.0 -- 
+151.0 -- artf1365027 -- DAVE -- DAVE : Ateliers de questions/réponses -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41579.0 -- 315.75 -- 
+152.0 -- artf1377752 -- PFF -- PFF - Atelier d'analyse des données SAP avec déplacement à Montluçon -- Service catalogué -- 1583.0 -- Terminé -- OLD -- 7.71049714E9 -- 41579.0 -- 1583.0 -- 
+153.0 -- artf1377889 -- AGES -- Avenant AGES phase 1 -- TME - Evolutif mode Projet -- 9573.5 -- Terminé -- OLD -- 7.71049714E9 -- 41579.0 -- 9573.5 -- 
+154.0 -- artf1378208 -- KIOSQUE -- Refonte module recherche Kiosque -- TME - Evolutif -- 8873.0 -- Terminé -- OLD -- 7.710551236E9 -- 41626.0 -- 8873.0 -- 
+155.0 -- artf1381715 -- AEI -- AEI (workflow de validation des signatures) - lot 2 -- TME - Evolutif mode Projet -- 54639.0 -- Terminé -- OLD -- 7.710551236E9 -- 41621.0 -- 54639.0 -- 
+156.0 -- artf1390307  -- SHAREPLACE -- Mission sur Sharepoint -- Service catalogué -- Refusé -- OLD -- Refusé -- 41275.0 -- 0.0 -- 
+157.0 -- artf1393873 -- AEI -- AEI: Création des utilisateurs via Service Web Sagem -- TME - Evolutif mode Projet -- 1868.0 -- Terminé -- OLD -- 7.710551236E9 -- 41613.0 -- 1868.0 -- 
+158.0 -- artf1396983  -- PRISMA -- Support pour étude de la couverture fonctionnelle Kiosque/Prisma -- Demande Support -- Terminé -- OLD -- 7.710551236E9 -- 41606.0 -- 736.75 -- 
+159.0 -- artf1403931  -- SKILL -- Support pour Atelier Q/R de SKILL NG -- Demande Support -- Terminé -- OLD -- 7.71049714E9 -- 41612.0 -- 315.75 -- 
+160.0 -- artf1403932  -- CREATION-COMPTE-CLIENT -- Support pour atelier technique SAFRAN/SAGEM/CAP interfaçage SAP -- Demande Support -- Terminé -- OLD -- 7.710551236E9 -- 41612.0 -- 210.5 -- 
+161.0 -- artf1407760 -- AGES -- Evolutions AGES phase 1 -- TME - Evolutif -- 5137.0 -- Terminé -- OLD -- 7.710551236E9 -- 41626.0 -- 5137.0 -- 
+162.0 -- artf1409046 -- AEI -- AEI: lot d'évolutions sur le lot 1 -- TME - Evolutif mode Projet -- 2802.0 -- Terminé -- OLD -- 7.710551236E9 -- 41621.0 -- 2802.0 -- 
+163.0 -- artf1415340 -- AEI -- AEI: lot d'évolutions sur le lot 2 -- TME - Evolutif -- 10040.5 -- Terminé -- OLD -- 7.710551236E9 -- 41661.0 -- 10040.5 -- 
+164.0 -- artf1421336  -- AEI -- AEI: création d'un script de reprise des flux -- Demande Support -- Terminé -- OLD -- 7.710551236E9 -- 41641.0 -- 421.0 -- 
+165.0 -- artf1421337 -- BUYBOX -- BuyBox : correction du lot de priorité 1 -- TME - Evolutif -- 7005.0 -- Livré -- OLD -- 7.710551236E9 -- 41759.0 -- 7005.0 -- 
+166.0 -- artf1428857 -- EASYFLOW RH -- Evolutions EasyFlow RH -- TME - Evolutif -- 4203.0 -- En garantie -- OLD -- 7.710551236E9 -- 41695.0 -- 4203.0 -- 
+167.0 -- artf1429440 -- AGES -- Demandes d'évolutions sur AGES phase 2 -- TME - Evolutif -- 7939.0 -- En garantie -- OLD -- 7.710551236E9 -- 41670.0 -- 7939.0 -- 
+168.0 -- artf1432785 -- ESM -- AGES : demande de modification Webservice ESM -- TME - Evolutif -- 2014.0 -- 421.0 -- Terminé -- OLD -- 7.710551236E9 -- 41666.0 -- 421.0 -- 
+169.0 -- artf1437003  -- KIOSQUE -- Livraison d'une nouvelle version de Kiosque mergeant les version 1.6,1.7,1.8,1.9 et 1.10 -- Demande Support -- 211.0 -- Terminé -- OLD -- 7.710551236E9 -- 41670.0 -- 211.0 -- 
+170.0 -- artf1437063  -- AEI -- AEI - Petite évolution sur lot 2 -- TME - Evolutif -- 467.0 -- Terminé -- OLD -- 7.710551236E9 -- 41684.0 -- 466.99999999999994 -- 
+172.0 -- artf1437351  -- AGES -- Ages phase 1: mail d'alerte sur sortie non prise en compte non cohérent -- TME - Evolutif -- 934.0 -- Terminé -- OLD -- 7.710551236E9 -- 41675.0 -- 934.0 -- 
+173.0 -- artf1437570  -- KIOSQUE -- KIOSQUE - Audit fonctionnel et technique -- TME - Evolutif mode Projet -- 19252.0 -- Terminé -- OLD -- 7.710551236E9 -- 41695.0 -- 19252.0 -- 
+174.0 -- artf1440646 -- KIOSQUE -- problème d'identification TOKEN - SID -- TMC - Correctif -- 3736.0 -- En garantie -- OLD -- 7.710551236E9 -- 41696.0 -- 3736.0 -- 
+175.0 -- artf1440672 -- EQUAL -- EQUAL: spécification générale -- TME - Evolutif mode Projet -- 2014.0 -- 9884.0 -- Terminé -- OLD -- 7.710551236E9 -- 41684.0 -- 9884.0 -- 
+176.0 -- artf1441477 -- Autres -- Demande d'initialisation d'un document "standard de développements" -- Demande Support -- 467.0 -- Terminé -- OLD -- 7.710551236E9 -- 41680.0 -- 467.0 -- 
+177.0 -- artf1442750  -- AEI -- AEI: lot d'évolutions sur le lot 2 -- TME - Evolutif -- 4203.0 -- Terminé -- OLD -- 7.710551236E9 -- 41684.0 -- 4203.0 -- 
+200.0 -- artf1444029  -- AEI -- AEI: lot d'évolutions sur le lot 2 -- TME - Evolutif -- 934.0 -- Terminé -- OLD -- 7.710551236E9 -- 41684.0 -- 933.9999999999999 -- 
+201.0 -- artf1450026  -- HELIUM -- HELIUM : Evolutions #1 -- TME - Evolutif -- 3549.0 -- Terminé -- OLD -- 7.710551236E9 -- 41694.0 -- 3549.0 -- 
+202.0 -- artf1453117  -- AEI -- AEI: lot d'évolutions sur le lot 2 -- TME - Evolutif -- 6538.0 -- Terminé -- OLD -- 7.710551236E9 -- 41701.0 -- 6538.0 -- 
+203.0 -- artf1453536 -- FICHE-PRESENCE -- FICHE-PRESENCE, Modification de la configuration de la sécurité -- TME - Evolutif -- 2335.0 -- Livré -- OLD -- 7.710551236E9 -- 41759.0 -- 2335.0 -- 
+204.0 -- artf1454511 -- AEI -- Affichage du détail d'une demande d'investissement -- TMC - Correctif -- 467.0 -- Livré -- OLD -- 7.710563784E9 -- 41791.0 -- 467.0 -- 
+205.0 -- artf1454573 -- AEI -- Flux d'archivage -- TMC - Correctif -- 934.0 -- Livré -- OLD -- 7.710551236E9 -- 41791.0 -- 934.0 -- 
+206.0 -- artf1455371 -- HELIUM -- Ajout du nom-prénom de l’utilisateur en cours d’édition -- TMC - Correctif -- 467.0 -- Livré -- OLD -- 7.710551236E9 -- 41791.0 -- 467.0 -- 
+207.0 -- artf1455372 -- HELIUM -- Ajout d'alerte dans la campagne Collaborateur -- TMC - Correctif -- 467.0 -- Livré -- OLD -- 7.710551236E9 -- 41791.0 -- 467.0 -- 
+300.0 -- artf1455374 -- HELIUM -- Libellé colonne grille - Ajout de la date de dernière promotion -- TMC - Correctif -- 467.0 -- Livré -- OLD -- 7.710551236E9 -- 41791.0 -- 467.0 -- 
+301.0 -- artf1457025 -- EQUAL -- EQUAL : Product Backlog -- Service catalogué -- 1200.0 -- Livré -- OLD -- 7.710551236E9 -- 41710.0 -- 1200.0 -- 
+302.0 -- artf1461947 -- HELIUM -- HELIUM : Evolutions #4 -- TME - Evolutif -- 560.0 -- En garantie -- OLD -- 7.710551236E9 -- 41723.0 -- 560.0 -- 
+303.0 -- artf1462748  -- HELIUM -- HELIUM : Evolutions #5 -- TME - Evolutif -- 560.0 -- En garantie -- OLD -- 7.710551236E9 -- 41723.0 -- 560.0 -- 
+304.0 -- artf1468410 -- AEI -- Tableau de bord - Export -- TMC - Correctif -- 934.0 -- Livré -- OLD -- 7.710551236E9 -- 41791.0 -- 934.0 -- 
+305.0 -- artf1468515  -- KIOSQUE -- Montée de version MySQL -- TME - Evolutif mode Projet -- 2015.0 -- 9937.0 -- Terminé -- OLD -- 7.710563784E9 -- 41821.0 -- 9937.0 -- 
+306.0 -- artf1468996  -- KIOSQUE -- Devis refonte stockage DFS -- TME - Evolutif mode Projet -- 2015.0 -- 33282.0 -- Terminé -- OLD -- 7.710563784E9 -- 41821.0 -- 33282.0 -- 
+307.0 -- artf1469003  -- KIOSQUE -- Amélioration de l'ergonomie -- TME - Evolutif mode Projet -- 2015.0 -- 17836.0 -- Terminé -- OLD -- 7.710563784E9 -- 41821.0 -- 17836.0 -- 
+308.0 -- artf1473638  -- KIOSQUE-CD -- Exigences PNS -- TME - Evolutif -- 0.0 -- Refusé -- Refusé -- 0.0 -- 
+309.0 -- artf1474057 -- AGES -- Evolution mutation en masse code Cascade -- TME - Evolutif -- 467.0 -- En garantie -- OLD -- 7.710551236E9 -- 41759.0 -- 467.0 -- 
+310.0 -- artf1474061  -- AGES -- Evol Type d'imputation non défini -- TME - Evolutif -- 1868.0 -- En garantie -- OLD -- 7.710551236E9 -- 41761.0 -- 1868.0 -- 
+311.0 -- artf1474096 -- AGES -- Message non explicite lors du refus de soumission mvt en masse -- TME - Evolutif -- 0.0 -- En garantie -- OLD -- 7.710551236E9 -- 41761.0 -- 0.0 -- 
+312.0 -- artf1477691  -- AGES -- Nom de fichiers S41 et S42 incorrects -- TME - Evolutif -- 467.0 -- En garantie -- OLD -- 7.710551236E9 -- 41761.0 -- 467.0 -- 
+313.0 -- artf1480517  -- BUYBOX -- Création d'un rapport pour la population PFF -- TME - Evolutif -- 2015.0 -- 1401.0 -- Terminé -- OLD -- 7.710551236E9 -- 41761.0 -- 1401.0 -- 
+315.0 -- artf1480517  -- BUYBOX -- Création d'un rapport pour la population PFF ajout evol -- TME - Evolutif -- 2015.0 -- 1401.0 -- Terminé -- OLD -- 7.710563784E9 -- 41761.0 -- 1401.0 -- 
+317.0 -- artf1484571 -- AGES -- Ajout de l'administrateur fonctionnel aux mails d'alerte -- TME - Evolutif -- 467.0 -- En garantie -- OLD -- 7.710551236E9 -- 41761.0 -- 467.0 -- 
+318.0 -- artf1484595 -- AGES -- Modification des objets de mails -- TME - Evolutif -- 467.0 -- En garantie -- OLD -- 7.710551236E9 -- 41761.0 -- 467.0 -- 
+319.0 -- artf1484607 -- AGES -- Génération automatique d un rapport anomalie GXP -- TME - Evolutif -- 1868.0 -- En garantie -- OLD -- 7.710551236E9 -- 41761.0 -- 1868.0 -- 
+320.0 -- artf1487766 -- KIOSQUE -- Migration applicatif Web WS2012 64bits -- TME - Evolutif mode Projet -- 2015.0 -- 58608.0 -- Terminé -- OLD -- 7.710563784E9 -- 41821.0 -- 58608.0 -- 
+323.0 -- artf1492212 -- KIOSQUE -- Devis pour la Modification de pages WEB -- TME - Evolutif -- 2015.0 -- 3736.0 -- Terminé -- OLD -- 7.710563784E9 -- 41852.0 -- 3736.0 -- 
+326.0 -- artf1496716 -- HELIUM -- Suppression de délégation qui devrait être impossible -- TMC - Correctif -- 884.0 -- Livré -- OLD -- 7.710551236E9 -- 41791.0 -- 884.0 -- 
+327.0 -- artf1496722 -- HELIUM -- Delegations qui ne disparaissent pas en cas de retour de proposition -- TMC - Correctif -- 884.0 -- Livré -- OLD -- 7.710563784E9 -- 41791.0 -- 884.0 -- 
+328.0 -- artf1496760  -- HELIUM -- Selection globale pour délégation incorrecte -- TMC - Correctif -- 884.0 -- Livré -- OLD -- 7.710563784E9 -- 41791.0 -- 884.0 -- 
+329.0 -- artf34289 -- ESM -- Envoi prématuré de mail pour validation par le suivant (cas d'une fiche extraite) -- TMC - Correctif -- 337.0 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 337.0 -- 
+335.0 -- artf34384 -- ESM -- Evolution workflow mutation hiérarchique individuelle -- TME - Evolutif -- 2015.0 -- 11675.0 -- Terminé -- OLD -- 7.710563784E9 -- 41974.0 -- 11675.0 -- 
+336.0 -- artf34642  -- Autres -- Support etude interfaçage de Sharepoint et d'outlook -- Service catalogué -- 1200.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 1200.0 -- 
+337.0 -- artf34644 -- Autres -- Demande de mise en conformité du controle d'accès de la baie -- Socle -- 1325.16 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 1325.16 -- 
+337.0 -- artf34646 -- BUYBOX -- Création d'un rapport pour la population PFF - modif scope inport + division -- TME - Evolutif -- 2014.0 -- 467.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 467.0 -- 
+337.0 -- artf34650 -- KIOSQUE -- Cadrage des exigences plan de classement et ergonomie -- Demande Support -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 842.0 -- 
+338.0 -- artf34654 -- KIOSQUE -- Réalisation du macro-chiffrage kiosque -- Demande Support -- 1263.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 1263.0 -- 
+339.0 -- artf34742  -- KIOSQUE -- chargement en masse pour document APHRODITE -- TMC - Correctif -- 5604.0 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 5604.0 -- 
+340.0 -- artf35005 -- KIOSQUE -- 4 Corrections Hors Garantie -- TMC - Correctif -- 2442.0 -- Livré -- OLD -- 7.710563784E9 -- 41791.0 -- 2442.0 -- 
+341.0 -- artf35006 -- KIOSQUE -- MAJ script blanchiement + correction anomalie liée -- TMC - Correctif -- 934.0 -- Livré -- OLD -- 7.710563784E9 -- 41852.0 -- 934.0 -- 
+342.0 -- artf35084 -- KIOSQUE -- Cadrage projet PNS -- Demande Support -- 421.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 421.0 -- 
+343.0 -- artf35255  -- KIOSQUE -- Ateliers de cadrage des scénarios de tests -- Service catalogué -- 2015.0 -- 8400.0 -- Terminé -- OLD -- 7.710563784E9 -- 41821.0 -- 8400.0 -- 
+344.0 -- artf35331  -- BUYBOX -- Corrections de la v1.2.3 hors garantie -- TMC - Correctif -- 1868.0 -- Livré -- OLD -- 7.710563784E9 -- 41852.0 -- 1868.0 -- 
+345.0 -- artf35416  -- BUYBOX -- Analyse : BUG SUR RESULTAT DU CALCUL D'UN DEVIS -- TMC - Correctif -- 747.0 -- Livré -- OLD -- 7.710563784E9 -- 41852.0 -- 747.0 -- 
+346.0 -- artf35416  -- BUYBOX -- TIMEOUT SUR LA RECHERCHE CODE EQUIV -- TMC - Correctif -- 1868.0 -- Livré -- OLD -- 7.710563784E9 -- 41852.0 -- 1868.0 -- 
+347.0 -- artf35570 -- KIOSQUE -- erreur dans la navigation des différentes feuilles de résultat  -- TMC - Correctif -- 1221.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 1221.0 -- 
+348.0 -- artf35575 -- KIOSQUE -- Support pour erreurs non reproductible -- Service catalogué -- 3789.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 3789.0 -- 
+349.0 -- artf35576 -- KIOSQUE -- erreur lors de la tentative de création du dossier  -- TMC - Correctif -- 1221.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 1221.0 -- 
+353.0 -- artf35910 -- HELIUM -- Boucle de délégation non détectée ou empêchée -- TME - Evolutif -- 2015.0 -- 2802.0 -- Terminé -- OLD -- 7.710563784E9 -- 41852.0 -- 2802.0 -- 
+354.0 -- artf35911 -- AGES -- Ajout matricule sur filtre resp hiérarchique -- TME - Evolutif -- 2015.0 -- 1053.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 1053.0 -- 
+artf36402 -- BUYBOX -- Timeout lors de la suppression d'un devis -- TMC - Correctif -- 1401.0 -- Livré -- OLD -- 7.710563784E9 -- 41883.0 -- 1401.0 -- 
+355.0 -- artf36485 -- AGES -- Reporting Effectif, mauvais matricule -- TMC - Correctif -- 2014.0 -- 336.8 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 336.8 -- 
+356.0 -- artf36485 -- AGES -- Reporting Effectif, mauvais matricule -- TMC - Correctif -- 2015.0 -- 884.1 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 884.1 -- 
+357.0 -- artf36531 -- HELIUM -- Support de production de Mars -- Demande Support -- 1263.0 -- Livré -- OLD -- 7.710563784E9 -- 41821.0 -- 1263.0 -- 
+358.0 -- artf36585  -- BUYBOX -- TEXTE MAIL RFQ NON CONFORME AU PARAMETRAGE -- TMC - Correctif -- 2015.0 -- 1401.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 1401.0 -- 
+359.0 -- artf36635  -- AGES -- Problème de performance Mouvement AGES -- TMC - Correctif -- 2015.0 -- 1558.0 -- Terminé -- OLD -- 7.710563784E9 -- 41852.0 -- 1558.0 -- 
+360.0 -- artf36710 -- HELIUM -- Outils de décryptage des données pour support -- TME - Evolutif -- 2015.0 -- 5604.0 -- Terminé -- OLD -- 7.710563784E9 -- 41944.0 -- 5604.0 -- 
+360.0 -- artf36778 -- AGES -- date d'envoi indiquée dans le reporting erronéee -- TMC - Correctif -- 2014.0 -- 336.8 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 336.8 -- 
+361.0 -- artf36779 -- AGES -- nom et prenom manquants dans les mails doublon -- TMC - Correctif -- 2014.0 -- 336.8 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 336.8 -- 
+362.0 -- artf36779 -- AGES -- nom et prenom manquants dans les mails doublon -- TMC - Correctif -- 2015.0 -- 884.1 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 884.1 -- 
+363.0 -- artf36856 -- AGES -- les mouvements ESM … pas dans le reporting -- TMC - Correctif -- 2014.0 -- 336.8 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 336.8 -- 
+364.0 -- artf36856 -- AGES -- les mouvements ESM … pas dans le reporting -- TMC - Correctif -- 2015.0 -- 884.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 884.0 -- 
+365.0 -- artf37039 -- ESM -- Evolution ESM affichage mes taches en cours -- TME - Evolutif -- 2015.0 -- 2802.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 2802.0 -- 
+366.0 -- artf37109 -- AGES -- mise à jour de la table des centres de cout HS -- TMC - Correctif -- 2015.0 -- 336.8 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 336.8 -- 
+367.0 -- artf37109 -- AGES -- mise à jour de la table des centres de cout HS -- TMC - Correctif -- 2015.0 -- 884.1 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 884.1 -- 
+368.0 -- artf37927 -- AGES -- fausse erreur de transmission détectée (dossier E. Henry) -- TMC - Correctif -- 2014.0 -- 336.8 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 336.8 -- 
+369.0 -- artf37933 -- KIOSQUE -- Droit approbateur KO pour droit d'acteur -- TMC - Correctif -- 2015.0 -- 884.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 884.0 -- 
+370.0 -- artf37934 -- KIOSQUE -- Page introuvable lors de l'archivage via la fonction ACL Edit -- TMC - Correctif -- En cours -- OLD -- 7.710563784E9 -- 41944.0 -- 0.0 -- 
+371.0 -- artf37935 -- KIOSQUE -- L'origine OTAN n'apparaît pas dans la page de confirmation -- TMC - Correctif -- En cours -- OLD -- 7.710563784E9 -- 41944.0 -- 0.0 -- 
+372.0 -- artf38102 -- AEI -- Amélioration ergonomie suite Retex utilisateurs 2014 -- TME - Evolutif -- 2015.0 -- 5604.0 -- Terminé -- OLD -- 7.710563784E9 -- 41944.0 -- 5604.0 -- 
+373.0 -- artf38147 -- KIOSQUE -- Demande de fourniture d'un fichier Excel extrait de l'environnement HPALM11 -- Service catalogué -- 467.0 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 467.0 -- 
+374.0 -- artf38383 -- KIOSQUE -- Création d'une procédure outillée pour permettre de changer le DFS -- TMC - Correctif -- 2015.0 -- 4200.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 4200.0 -- 
+375.0 -- artf38590 -- AGES -- Support production, analyse et correction performance du batch -- Demande Support -- 6071.0 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 6071.0 -- 
+376.0 -- artf38806  -- KIOSQUE -- Suppression des paramètres en dur dans le code  -- TMC - Correctif -- 2015.0 -- 1053.0 -- Terminé -- OLD -- 7.710563784E9 -- 41944.0 -- 1053.0 -- 
+378.0 -- artf38917  -- FICHE-PRESENCE -- Erreur d'orthographe en colonne : autres absences -- TMC - Correctif -- 467.0 -- Livré -- AV04-16 -- 9.02000766E9 -- 42461.0 -- 466.99999999999994 -- 
+379.0 -- artf38959 -- AGES -- fausse erreur de transmission détectée (dossier E. Henry) Correction  -- TMC - Correctif -- 2015.0 -- 884.0 -- Terminé -- OLD -- 7.710563784E9 -- 41913.0 -- 884.0 -- 
+380.0 -- artf38964  -- BUYBOX -- Déploiement impossible du rapport rptDonneesAchatsExcel -- TME - Evolutif -- 934.0 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 934.0 -- 
+381.0 -- artf39691  -- KIOSQUE -- Dev Ergo - évolutions page accueil -- TME - Evolutif mode Projet -- 2015.0 -- 30514.0 -- Terminé -- OLD -- 7.710612094E9 -- 41944.0 -- 30514.0 -- 
+382.0 -- artf39788  -- KIOSQUE -- Dev Ergo - évolutions moteur de recherche -- TME - Evolutif mode Projet -- 2015.0 -- 84339.0 -- Terminé -- OLD -- 7.710612826E9 -- 41944.0 -- 84339.0 -- 
+383.0 -- artf39861  -- KIOSQUE -- Dev Ergo - évolutions nouveau doc -- TME - Evolutif mode Projet -- 2015.0 -- 34496.0 -- Terminé -- OLD -- 7.710612471E9 -- 41944.0 -- 34496.0 -- 
+384.0 -- artf40576  -- BUYBOX -- Cotations non updatées -- TME - Evolutif -- 2015.0 -- 467.0 -- Terminé -- OLD -- 7.710563784E9 -- 41974.0 -- 467.0 -- 
+385.0 -- artf40577  -- EASYFLOW RH -- Suppression des liens vers l'application EasyFlow achat -- TME - Evolutif -- 2015.0 -- 934.0 -- Terminé -- OLD -- 7.710563784E9 -- 41974.0 -- 934.0 -- 
+386.0 -- artf40592 -- AGES -- artf40592 : Erreur Traitement Batch AGES -- TMC - Correctif -- 336.8 -- Livré -- OLD -- 7.710563784E9 -- 41974.0 -- 336.8 -- 
+387.0 -- artf40713  -- KIOSQUE -- Impossible d'afficher les sous-versions -- TMC - Correctif -- 336.8 -- Livré -- OLD -- 7.710563784E9 -- 41974.0 -- 336.8 -- 
+388.0 -- artf40717  -- KIOSQUE -- Impossible d'annuler une demande de remplacement une archive -- TMC - Correctif -- Livré -- OLD -- 7.710563784E9 -- 41974.0 -- 0.0 -- 
+389.0 -- artf40719 -- KIOSQUE -- Impossible de visualiser les groupes d'un utilisateur - Analyse -- TMC - Correctif -- 336.8 -- Livré -- OLD -- 7.710563784E9 -- 41974.0 -- 336.8 -- 
+390.0 -- artf40720 -- KIOSQUE -- Impossible de visualiser les groupes d'un utilisateur - Correction -- TMC - Correctif -- 0.0 -- Refusé -- Refusé -- 42064.0 -- 0.0 -- 
+391.0 -- artf41012  -- KIOSQUE -- Message d'erreur lors de l'ouverture d'un modèle pointant vers PRISMA -- TME - Evolutif -- 2015.0 -- 884.0 -- Terminé -- OLD -- 7.710563784E9 -- 41974.0 -- 884.0 -- 
+392.0 -- artf41090  -- AEI -- Etude Internationalisation -- Demande Support -- 2015.0 -- 3600.0 -- Terminé -- OLD -- 7.710563784E9 -- 41974.0 -- 3600.0 -- 
+393.0 -- artf41091  -- BUYBOX -- Etude de migration -- Demande Support -- 2015.0 -- 5600.0 -- Terminé -- OLD -- 7.710563784E9 -- 41974.0 -- 5600.0 -- 
+394.0 -- artf42120 -- KIOSQUE -- Etude comparative des "Kiosque Standard" et "Kiosque "sensible" -- TMC - Correctif -- Livré -- AV03-15 -- 7.710563784E9 -- 42064.0 -- 1401.0 -- 
+395.0 -- artf42171 -- BUYBOX -- Demande de création d'un script de backup BUYBOX -- TMC - Correctif -- Livré -- AV03-15 -- 7.710563784E9 -- 42064.0 -- 1401.0 -- 
+396.0 -- artf42395 -- HELIUM -- Evolutions Helium pour Campagne 2015 -- TME - Evolutif -- 6538.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 6538.0 -- 
+397.0 -- artf42501 -- KIOSQUE -- Erreur exécution du script AutoInsertDocument.vbs - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 337.0 -- 
+398.0 -- artf42535 -- BUYBOX -- Modification des règles d’import SAP pour les contrats -- TMC - Correctif -- 1053.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42125.0 -- 1053.0 -- 
+399.0 -- artf42631 -- AEI -- artf42592 : Affichage des étapes futures du workflow -- TME - Evolutif -- 1053.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 1053.0 -- 
+400.0 -- artf42632 -- AGES -- Batch AGES : problème de mise à jour établissement et centres de coût vers ESM - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 337.0 -- 
+401.0 -- artf42633 -- AGES -- Blocage du batch AGES : Erreur sur récupération du document XML Mutation - ANALYSE -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 337.0 -- 
+402.0 -- artf42656 -- KIOSQUE -- [Cycle de relecture] - Dossier vérrouillé mais toujours accessible - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 337.0 -- 
+403.0 -- artf42658 -- AGES -- Log d'erreur "erreur d'envoi de fichier" - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 337.0 -- 
+404.0 -- artf42659 -- BUYBOX -- TIMEOUT - impossible de voir la liste des articles prêts à partir en RFQ - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710612471E9 -- 42036.0 -- 337.0 -- 
+artf42660 -- ESM -- ESM : doublon en liste identité d'nitialisation des mouvements E S et M - analyse -- TMC - Correctif -- 337.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 337.0 -- 
+405.0 -- artf42892 -- KIOSQUE -- Packaging v1.12.3 -- TMC - Correctif -- 467.0 -- Livré -- AV03-15 -- 7.710563784E9 -- 42036.0 -- 467.0 -- 
+406.0 -- artf43120  -- AEI -- Réalisation Internationalisation -- TME - Evolutif -- 13076.0 -- Livré -- AV05-15 -- 7.710612557E9 -- 42036.0 -- 13076.0 -- 
+407.0 -- artf43679 -- KIOSQUE -- Accompagnement Aide utilisateur KIOSQUE -- TME - Evolutif -- 9340.0 -- Livré -- AV04-15 -- 7.710612471E9 -- 42064.0 -- 9340.0 -- 
+408.0 -- artf43974 -- HELIUM -- Erreur JS Telerik sur environnement de PROD - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 337.0 -- 
+409.0 -- artf44037 -- KIOSQUE -- Erreur lors du postage d'un document - Correctif -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 42095.0 -- 0.0 -- 
+410.0 -- artf44107 -- KIOSQUE -- erreur de publication dans une BAL -- TMC - Correctif -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 0.0 -- 
+411.0 -- artf44271  -- KIOSQUE -- artf44107 : erreur de publication dans une BAL -- TMC - Correctif -- 337.0 -- Livré -- AV04-15 -- 7.710612557E9 -- 42064.0 -- 337.0 -- 
+412.0 -- artf44314  -- ESM -- Pb de validation de SORTIE à l'étape "validation par les services" -- TMC - Correctif -- 337.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 337.0 -- 
+413.0 -- artf44364 -- KIOSQUE -- Erreur lors de la suppression d'une version d’un document KIOSQUE - analyse -- TMC - Correctif -- Livré -- AV06-15 -- 7.710612557E9 -- 42125.0 -- 0.0 -- 
+414.0 -- artf44388 -- KIOSQUE -- Evolution du module GESTPOSTE - Partie 1 -- TMC - Correctif -- 0.0 -- Annulé -- AV07-15 -- Annulé -- 42156.0 -- 
+415.0 -- artf44388 -- KIOSQUE -- Evolution du module GESTPOSTE - Partie 2 -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 42186.0 -- 0.0 -- 
+416.0 -- artf44392 -- KIOSQUE -- Evolution du processus de Postage solution eco -- TMC - Correctif -- 0.0 -- Annulé -- AV07-15 -- Annulé -- 42156.0 -- 
+417.0 -- artf44450 -- KIOSQUE -- Erreur exécution du script AutoInsertDocument.vbs - Correction -- TMC - Correctif -- 884.0 -- Livré -- AV04-15 -- 7.710612557E9 -- 42064.0 -- 884.0 -- 
+418.0 -- artf44585  -- KIOSQUE -- Erreur lors du postage d'un document - Analyse -- TMC - Correctif -- 337.0 -- Livré -- AV04-15 -- 7.710563784E9 -- 42095.0 -- 337.0 -- 
+419.0 -- artf44687 -- HELIUM -- Blocage de validation en proposition inexpliquée -- TMC - Correctif -- 337.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 337.0 -- 
+420.0 -- artf44711 -- KIOSQUE -- Lot de corrections et évolution à intégrer avec le Lot Ergo Mai 2015 -- TMC - Correctif -- 7620.0 -- Livré -- AV04-15 -- 7.710612557E9 -- 42095.0 -- 7619.999999999999 -- 
+421.0 -- artf44848 -- AGES -- Batch AGES bloqué sur erreur : property 'DateDEffet' does not exist -- TMC - Correctif -- 842.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 842.0 -- 
+422.0 -- artf45098 -- DIAPASON -- Migration RedHat MySQL Apache PHP -- Service catalogué -- 0.0 -- Annulé -- Annulé -- 42186.0 -- 0.0 -- 
+423.0 -- artf45215 -- KIOSQUE -- Lancement du projet LEAN Sureté -- TME - Evolutif -- 5364.0 -- Livré -- AV05-15 -- 7.710612471E9 -- 42095.0 -- 5364.0 -- 
+424.0 -- artf45316 -- AGES -- Impossible de faire un changement de hiérarchique en masse sur hiérarchique parti -- TMC - Correctif -- 337.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 337.0 -- 
+425.0 -- artf45504 -- HELIUM -- En pahse Cloture: population des managers invisible - analyse -- TMC - Correctif -- 337.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 337.0 -- 
+426.0 -- artf45504 -- HELIUM -- En pahse Cloture: population des managers invisible - correction -- TMC - Correctif -- Livré -- AV07-15 -- 7.710612471E9 -- 42186.0 -- 0.0 -- 
+427.0 -- artf45539 -- AGES -- Impossibilité de supprimer un mouvement de masse clôturé ? -- TMC - Correctif -- 337.0 -- Livré -- AV06-15 -- 7.710563784E9 -- 42125.0 -- 337.0 -- 
+428.0 -- artf46388 -- KIOSQUE -- Macro-chiffrage PRISMA -- Service catalogué -- 2802.0 -- Livré -- AV07-15 -- 7.710612471E9 -- 42125.0 -- 2802.0 -- 
+429.0 -- artf46389 -- KIOSQUE -- Présentation stratégie de projet PRISMA -- Service catalogué -- 2335.0 -- Livré -- AV07-15 -- 7.710612471E9 -- 42125.0 -- 2335.0 -- 
+430.0 -- artf46391  -- KIOSQUE -- Cadrage KIOSQUE Alignement Sensible -- Service catalogué -- 15608.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 15608.0 -- 
+431.0 -- artf46663  -- HELIUM -- Nouvelle fonction pour l'administrateur : validation à la place du manager -- TME - Evolutif -- 1053.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42156.0 -- 1053.0 -- 
+432.0 -- artf46664  -- HELIUM -- Evolution : modification de délégataire campagne par campagne pour l'administrateur -- TME - Evolutif -- 1053.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42156.0 -- 1053.0 -- 
+433.0 -- artf46665  -- HELIUM -- Nouvelle fonction : suppression en masse de délégation -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 9.02000766E9 -- 42278.0 -- 1053.0 -- 
+434.0 -- artf46666  -- HELIUM -- Amélioration du manuel utilisateur : format d'import -- TME - Evolutif -- 1053.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42156.0 -- 1053.0 -- 
+435.0 -- artf46667  -- HELIUM -- Salaire proposé en promotion 3BS erroné -- TMC - Correctif -- 800.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42156.0 -- 799.9999999999999 -- 
+436.0 -- artf46668  -- HELIUM -- Souci en promotion filière ouvriers -- TMC - Correctif -- 1053.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 1053.0 -- 
+437.0 -- artf46691  -- HELIUM -- L'administrateur n'a pas le droit de supprimeer une AG -- TMC - Correctif -- 884.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42156.0 -- 883.9999999999999 -- 
+438.0 -- artf47031 -- Autres -- Présentation Fougères -- Service catalogué -- 685.0 -- Livré -- AV07-15 -- 7.710612557E9 -- 42156.0 -- 685.0 -- 
+439.0 -- artf47031   -- Autres -- artf47016 : Présentation méthode de développement rapide -- Service catalogué -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 0.0 -- 
+440.0 -- artf47361  -- HELIUM -- Tests de Non Régression - Atelier de travail #1 -- Service catalogué -- 5568.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 5568.0 -- 
+441.0 -- artf47638 -- KIOSQUE -- artf47638 : Kiosque Alignement Sensible -- Service catalogué -- 0.0 -- Annulé -- Annulé -- 42186.0 -- 0.0 -- 
+442.0 -- artf48223  -- PFF -- Génération d'un devis pour sujet PFF -- Service catalogué -- 3736.0 -- Livré -- AV09-15 -- 7.710612471E9 -- 42248.0 -- 3736.0 -- 
+443.0 -- artf48649  -- HELIUM -- HELIUM - Rédaction des Tests de Non Régression -- Service catalogué -- 10400.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 10400.0 -- 
+444.0 -- artf48710  -- KIOSQUE -- Analyse de la base de données Sensible blanchie et du DFS associé -- TME - Evolutif -- 0.0 -- Annulé -- AV08-15 -- Annulé -- 42186.0 -- 0.0 -- 
+445.0 -- artf48916  -- BUYBOX -- BuyBox Version 1.3.2 - Evolutions des règles SAP -- TME - Evolutif -- 1053.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 1053.0 -- 
+446.0 -- artf48967  -- EASYFLOW RH -- artf47001 : Version avec blocage de création de nouvelles DOP -- TME - Evolutif -- 1401.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42186.0 -- 1400.9999999999998 -- 
+447.0 -- artf49336 -- PORTAIL PRISMA -- artf49336 : Phase de Cadrage - Développement rapide - Portail Prisma -- Dev. Rapide -- 3780.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42217.0 -- 3780.0 -- 
+448.0 -- artf49337 -- PERFO ATELIER -- artf49337 : Phase de Cadrage - Développement rapide - Outil Performance Atelier TA/TP -- Service catalogué -- 7879.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42217.0 -- 7879.0 -- 
+449.0 -- artf49580 -- PORTAIL PRISMA -- artf49580 : Développement rapide - Portail Prisma -- Dev. Rapide -- 42509.0 -- Livré -- AV08-15 -- 9.02000766E9 -- 42217.0 -- 42509.0 -- 
+450.0 -- artf49810 -- PERFO ATELIER -- artf49810 : Développement Rapide - Mesure Performance Atelier -- Service catalogué -- 0.0 -- Refusé -- Refusé -- 42217.0 -- 0.0 -- 
+451.0 -- artf50657 -- BUYBOX -- artf50657 : artf50580 : Erreur exécution procédure EXEC [IMPORT].[usp_Trait_requeteAchatDivers] : pb de conversion -- TMC - Correctif -- 0.0 -- Refusé -- Refusé -- 42217.0 -- 0.0 -- 
+452.0 -- artf50657 -- BUYBOX -- artf50657 : artf50580 : Erreur exécution procédure EXEC [IMPORT].[usp_Trait_requeteAchatDivers] : pb de conversion -- TMC - Correctif -- 337.0 -- Livré -- AV08-15 -- 7.710612471E9 -- 42217.0 -- 337.0 -- 
+453.0 -- artf51536  -- AGES -- artf50661 : Evolution : nouveau mouvement de masse changement de code utilisateur Cascade -- TME - Evolutif -- 2802.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 2802.0 -- 
+454.0 -- artf51537  -- ESM -- artf49739 : AJout de version dans les formulaires : entrée, sortie et mutation -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 1053.0 -- 
+455.0 -- artf51539  -- ESM -- artf49715 : Evolution : Suppression d’obligation de saisie d’une adresse mail d’envoi des informations de mouvement en clôture d’entrée ou de mutation -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 1053.0 -- 
+456.0 -- artf51540  -- ESM -- artf49707 : Flag de valideur parti en saisie formulaire -- TME - Evolutif -- 1868.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 1867.9999999999998 -- 
+457.0 -- artf52193  -- ESM -- artf49709 : Evolution : trans codification des valeurs « situation actuelle » -- TME - Evolutif -- 2802.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 2802.0 -- 
+458.0 -- artf52215  -- HELIUM -- artf46485 : Comment inclure des intervenants hors fichier d'import ? -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 1053.0 -- 
+459.0 -- artf52215  -- HELIUM -- artf48050 - Fonction export : sélection de population avant export -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42279.0 -- 1053.0 -- 
+460.0 -- artf52230  -- HELIUM -- artf48051 - Fonction export en campagne collab : regroupement d'onglets  -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42280.0 -- 1053.0 -- 
+461.0 -- artf52231  -- HELIUM -- artf48052 - Détection de boucle de délégation pour le type consultation -- TME - Evolutif -- 1053.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42281.0 -- 1053.0 -- 
+462.0 -- artf52377  -- ESM -- artf49621 : Evolution : Modification d'un valideur en cours de circuit de validation -- TME - Evolutif -- 1868.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42282.0 -- 1867.9999999999998 -- 
+463.0 -- artf52378  -- ESM -- artf49751 : Nouvelle conception pour éviter d'avoir à refaire la configuration de vues et webpart, pour proposition et chiffrage -- TME - Evolutif -- 1868.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42283.0 -- 1867.9999999999998 -- 
+464.0 -- artf52482  -- PORTAIL PRISMA -- artf52375 : Demande de support sur l'analyse du dysfonctionnement de l'erreur HTTP 401 sur PortailPrisma -- TMC - Correctif -- 674.0 -- Livré -- AV10-15 -- 9.02000766E9 -- 42284.0 -- 674.0 -- 
+465.0 -- artf52521  -- ESM -- artf49622 : Evolution : Création d'un flag valideur non autorisé, pour chiffrage -- TME - Evolutif -- 1868.0 -- Livré -- AV10-15 -- 9.02000766E9 -- 42285.0 -- 1867.9999999999998 -- 
+466.0 -- artf52522  -- KIOSQUE -- Devis Analyse pour recette 1.14 : Erreur lors de la prise d'une nouvelle référence -- TMC - Correctif -- 337.0 -- Livré -- AV10-15 -- 9.02000766E9 -- 42286.0 -- 337.0 -- 
+467.0 -- artf52523  -- KIOSQUE -- Devis Analyse pour recette 1.14 : La liste des membres d'une BAL ne s'affiche pas -- TMC - Correctif -- 337.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42287.0 -- 337.0 -- 
+468.0 -- artf52546  -- ESM -- artf49708 : Evolution : initialisation des valeurs d’affectations métiers Cascade -- TME - Evolutif -- 2802.0 -- Livré -- AV11-15 -- 9.02000766E9 -- 42288.0 -- 2802.0 -- 
+469.0 -- artf52777  -- KIOSQUE -- Correction pour KIOSQUE 1.14.1 : Problème lors de l'utilisation de "document.location" -- TMC - Correctif -- 884.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42289.0 -- 884.0 -- 
+470.0 -- artf52917  -- KIOSQUE -- Devis pour identification des incompatibilités IE11 sur Kiosque v2 -- Service catalogué -- 4400.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42290.0 -- 4400.0 -- 
+471.0 -- artf53479  -- GESTION PRESTA -- Devis pour phase de cadrage - Gestion des Prestataires -- Dev. Rapide -- 2691.0 -- Livré -- AV10-15 -- 7.710612471E9 -- 42291.0 -- 2691.0 -- 
+472.0 -- artf54117  -- KIOSQUE -- Kiosque 1.15 (annulation de l'anonymisation) + Outil de migration DFS -- TME - Evolutif -- 7070.0 -- Livré -- AV11-15 -- 9.02000766E9 -- 42309.0 -- 7069.999999999999 -- 
+473.0 -- artf54444  -- GESTION PRESTA -- Devis pour le 3ème atelier - Phase de cadrage DR Gestion des Prestataires -- Dev. Rapide -- 337.0 -- Livré -- AV11-15 -- 9.02000766E9 -- 42309.0 -- 337.0 -- 
+474.0 -- artf54629  -- AEI -- artf54324 : Devis pour permettre la modification des libellés de texte en dehors du code  -- TME - Evolutif -- 1053.0 -- Livré -- AV11-15 -- 9.02000766E9 -- 42309.0 -- 1053.0 -- 
+475.0 -- artf54630  -- HELIUM -- artf54025 : Devis pour Alerte utilisateurs connectés lors d'un verrouillage de campagne  -- TME - Evolutif -- 1579.0 -- Livré -- AV11-15 -- 9.02000766E9 -- 42309.0 -- 1579.0 -- 
+476.0 -- artf54648  -- GESTION PRESTA -- Développement Rapide - Gestion des Prestataires -- Dev. Rapide -- 39519.0 -- Livré -- AV12-15 -- 9.02000766E9 -- 42339.0 -- 39518.99999999999 -- 
+477.0 -- artf55342  -- KIOSQUE -- Kiosque - Compatibilité Internet Explorer 11 + descendante Internet Explorer 8 -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+478.0 -- artf55456  -- BUYBOX -- Devis pour demande d'analyse artf55243 : infos FAB et ref FAB manquantes - rapport contrats -- Demande Support -- 337.0 -- Livré -- AV12-15 -- 9.02000766E9 -- 42339.0 -- 337.0 -- 
+479.0 -- artf55458  -- HELIUM -- Devis pour Atelier#1 de support aux tests HELIUM 1.5.1 -- Demande Support -- 117.0 -- Livré -- AV12-15 -- 9.02000766E9 -- 42339.0 -- 117.0 -- 
+480.0 -- artf56069  -- KIOSQUE -- Devis de support Kiosque pour artf55848 : erreur sur la tache planifié de publication -- Demande Support -- 187.0 -- Livré -- AV12-15 -- 9.02000766E9 -- 42339.0 -- 187.0 -- 
+481.0 -- artf56191  -- BUYBOX -- Devis pour correction anomalie - artf55201 : Traitement des cotations 1.3.3 -- TME - Evolutif -- 934.0 -- Livré -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 933.9999999999999 -- 
+482.0 -- artf57526  -- GESTION PRESTA -- Migration des données -- Dev. Rapide -- 4623.0 -- Livré -- AV01-16 -- 9.02000766E9 -- 42370.0 -- 4622.999999999999 -- 
+483.0 -- artf57824  -- KIOSQUE -- Kiosque 1.15 - Support sur l'affichage des logs -- Demande Support -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+484.0 -- artf57826  -- AGES -- AGES - Support au problème bloquant Délai de Mutation dépassé -- Demande Support -- 337.0 -- Livré -- AV01-16 -- 9.02000766E9 -- 42370.0 -- 337.0 -- 
+485.0 -- artf57829  -- AEI -- AEI - Devis pour support sur le format de date erronné en langue anglaise -- Demande Support -- 337.0 -- Livré -- AV01-16 -- 9.02000766E9 -- 42370.0 -- 337.0 -- 
+486.0 -- artf57836  -- AGES -- AGES - Correction de l'anomalie artf56956 (date d’effectivité de la mutation est dépassée) -- TMC - Correctif -- 798.0 -- Livré -- AV04-16 -- 9.02000766E9 -- 42461.0 -- 798.0 -- 
+487.0 -- artf57973  -- HELIUM -- HELIUM 1.5.2 - Substitution à un intervenant externe -- TME - Evolutif -- 1053.0 -- Livré -- AV01-16 -- 9.02000766E9 -- 42370.0 -- 1053.0 -- 
+488.0 -- artf58242  -- GESTION PRESTA -- Devis pour la séparation des rôles RSTE et Gestionnaire -- Dev. Rapide -- 2802.0 -- Livré -- AV01-16 -- 9.02000766E9 -- 42370.0 -- 2801.9999999999995 -- 
+489.0 -- artf58746  -- HELIUM -- Devis pour support artf58180 : Login impossible sur Helium 1.5.1 de PROD -- Demande Support -- 152.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 152.0 -- 
+490.0 -- artf58747  -- AEI -- Devis pour analyse - artf58580 : Déploiement Production de AEI1.4.2 impossible -- Demande Support -- 304.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 304.0 -- 
+491.0 -- artf58748  -- AEI -- AEI Version 1.4.3 - Correction de l'anomalie artf58580 -- TMC - Correctif -- 798.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 798.0 -- 
+492.0 -- artf58917  -- BUYBOX -- Buybox - Evolutions Q1 2016 - Lot 1 -- TME - Evolutif -- 8420.0 -- Livré -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 8420.0 -- 
+493.0 -- artf59176  -- GESTION PRESTA -- Gestion Prestataires - Ajout des colonnes Gestionnaire - RSTE - Prescripteur -- TME - Evolutif -- 950.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 949.9999999999999 -- 
+494.0 -- artf59177  -- GESTION PRESTA -- Gestion Prestataires - Edition d'une demande en état Prestataire actif -- TME - Evolutif -- 4631.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 4631.0 -- 
+495.0 -- artf59179  -- GESTION PRESTA -- Gestion Prestataires - Modification du script d'initialisation de la base -- TME - Evolutif -- 380.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 380.0 -- 
+496.0 -- artf59180  -- GESTION PRESTA -- Gestion Prestataires - Suppression des archives de plus de 1 an  -- TME - Evolutif -- 1684.0 -- Livré -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 1684.0 -- 
+497.0 -- artf60106 -- AEI -- Devis d'analyse/incident artf60066 : Impossible de consulter une AEI -- Demande Support -- 304.0 -- Livré -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 304.0 -- 
+498.0 -- artf60107  -- AEI -- Devis de correction de l'anomalie AEI artf60066 : Impossible de consulter une AEI -- TMC - Correctif -- 798.0 -- Livré -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 798.0 -- 
+499.0 -- artf60108 -- HELIUM -- Devis pour Analyse/incident artf58873 : Export debug qui n'aboutit pas en phase clôture (campagne 2015) -- Demande Support -- 304.0 -- Livré -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 304.0 -- 
+500.0 -- artf60494  -- ESM -- Etude de la refonte ESM-AGES en une seule application -- Service catalogué -- 9747.0 -- Livré -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 9747.0 -- 
+501.0 -- artf62339  -- SYST. ALERTE -- Devis de Phase de Cadrage Système d'alerte Sûreté -- Dev. Rapide -- 2016.0 -- 4231.0 -- Terminé -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 4231.0 -- 
+502.0 -- artf62340  -- GESTION PRESTA -- Mise à jour des sites en base de données Gestion des Prestataires -- TME - Evolutif -- 380.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 380.0 -- 
+503.0 -- artf62635  -- HELIUM -- Devis Analyse / Incident : artf61791 : HELIUM : délégation incorrecte -- Demande Support -- 304.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 304.0 -- 
+504.0 -- artf62642  -- HELIUM -- Devis Analyse / Incident : artf61831 : Helium : l'utilisateur F000352 ne parvient pas à se connecter à la campagne collaborateur -- Demande Support -- 304.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 304.0 -- 
+505.0 -- artf62645  -- HELIUM -- Devis d'évolution - artf61917 : Recherche erronée d'utilisateur en AD sur matricule -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+506.0 -- artf62654  -- HELIUM -- Devis Analyse / Incident : artf61873 : Impossibilité d'export statistiques collaborateurs -- Demande Support -- 304.0 -- Payé -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 0.0 -- 304.0 -- 
+507.0 -- artf62654  -- HELIUM -- Devis Analyse / Incident : artf61945 : Anomalie commentaires - campagne cadres -- Demande Support -- 304.0 -- Livré (doublon) -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 304.0 -- 
+508.0 -- artf62655  -- HELIUM -- Devis Correction Anomalie : artf61945 : Anomalie commentaires - campagne cadres -- TMC - Correctif -- 798.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 798.0 -- 
+509.0 -- artf62656  -- HELIUM -- Devis Analyse / Incident : artf62090 : Export de graphique Centiles en PDF ou image, incorrect -- Demande Support -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+510.0 -- artf62658  -- HELIUM -- Devis Analyse / Incident : artf62085 : Doublons en campagne collaborateurs 2016 -- Demande Support -- 304.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 304.0 -- 
+511.0 -- artf62661  -- HELIUM -- Devis Correction d'Anomalie : artf62085 : Doublons en campagne collaborateurs 2016 -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+512.0 -- artf62666  -- HELIUM -- Devis Analyse / Incident : artf61833 : Helium : impossible d'extraire le contenu de tables par la fonction Export Debug -- Demande Support -- 304.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 304.0 -- 
+513.0 -- artf62668  -- HELIUM -- Devis Evolution - Amélioration de la gestion des erreurs dans l'export Debug -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+514.0 -- artf62674  -- SOCLE DR -- Développement Rapide - Devis de réalisation du template -- Dev. Rapide -- 19901.0 -- Livré -- AV04-16 -- 9.020018237E9 -- 42461.0 -- 19901.0 -- 
+515.0 -- artf66337  -- ESM -- Devis d'intervention sur site (Massy) - Support sur ESM/AGES/FP -- Service catalogué -- 3734.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 3734.0 -- 
+516.0 -- artf66342  -- KIOSQUE -- Devis de rattrapage - Kiosque Sensible - Etude de la migration technique -- Service catalogué -- 2102.0 -- Livré -- AV08-15 -- 9.020023753E9 -- 42461.0 -- 2102.0 -- 
+517.0 -- artf66351  -- FICHE-PRESENCE -- Fiche Présence : Prise en compte du préfixe FK dans les matricules -- TME - Evolutif -- 950.0 -- Livré -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 949.9999999999999 -- 
+518.0 -- artf68602  -- KIOSQUE -- Devis Analyse / Incident - artf61794 : Erreur Kiosque Inaccessible suite déménagement serveurs -- Demande Support -- 304.0 -- Livré -- AV05-16 -- 9.020023753E9 -- 42461.0 -- 304.0 -- 
+519.0 -- artf68648  -- GESTION PRESTA -- Gestion des Prestataires - Version 1.2.0 -- TME - Evolutif -- 4089.0 -- Livré -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 4088.9999999999995 -- 
+520.0 -- artf68671 -- ASSET LOGICIEL -- Devis de phase de cadrage - ASSET Logiciel -- Dev. Rapide -- 5680.0 -- Livré -- AV05-16 -- 9.020018237E9 -- 42491.0 -- 5680.0 -- 
+521.0 -- artf68674  -- HELIUM -- Devis Analyse/Incident - artf68573 : Consultation impossible pour les managers en dernière étape de campagne -- Demande Support -- 304.0 -- Livré -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 304.0 -- 
+522.0 -- artf68721  -- RETEX -- Devis pour Entrée en TMA - RETEX V3 -- Entrée en TMA -- 2016.0 -- 1710.0 -- Terminé -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 1710.0 -- 
+523.0 -- artf68847  -- ESM -- Devis Evolution - artf62615 : Evolution ESM sortie validation par les services -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+524.0 -- artf69428  -- Autres -- Devis pour Etude artf68315 : Intégrité projets VB et support technique -- Service catalogué -- 1263.0 -- Livré -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 1263.0 -- 
+525.0 -- artf69720  -- HELIUM -- HELIUM : Devis pour correction d'anomalie artf68685 : A l'étape "campagne clôturée" les managers ne sont pas autorisés à se loguer -- TMC - Correctif -- 798.0 -- Livré -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 798.0 -- 
+526.0 -- artf69723  -- BUYBOX -- BUYBOX : Devis support à la recette BUYBOX 1.4.0 -- Service catalogué -- 632.0 -- Livré -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 632.0 -- 
+527.0 -- artf70075  -- ASSET LOGICIEL -- ASSET Logiciel : Devis phase de réalisation DR -- Dev. Rapide -- 51209.0 -- Livré -- AV07-16 -- 9020023107 puis 9020023753 pour la dernière échéance -- 42552.0 -- 51209.0 -- 
+528.0 -- artf70403  -- AGES -- Devis pour correction anomalie artf70378 : Fichiers de sortie du batch erronés avec un code société incorrect -- TMC - Correctif -- 798.0 -- Livré -- AV06-16 -- 9.020023753E9 -- 42522.0 -- 798.0 -- 
+529.0 -- artf70827  -- Autres -- Devis d'entrée en TMA pour artf70260 : Entrée en TMA de plusieurs applications DSI -- Entrée en TMA -- 2018.0 -- 3004.0 -- Terminé -- AV06-16 -- 63501111803497 -- 9.02005077E9 -- 42522.0 -- 63501111803497 -- 3003.9 -- 
+531.0 -- artf70971  -- Projet PAC -- Devis pour demande artf70231 : Etude du besoin "Plioter la génération de la valeur - projet PAC" -- Entrée en TMA -- 11795.0 -- Livré -- AV06-16 -- 9.020023753E9 -- 42522.0 -- 11795.0 -- 
+532.0 -- artf71093  -- ESM -- Devis analyse/Incident artf70418 : Impossible de modifier le centre de coût -- Service catalogué -- 308.0 -- Livré -- AV06-16 -- 9.020023753E9 -- 42522.0 -- 308.0 -- 
+533.0 -- artf71094  -- AGES -- Devis analyse/Incident artf71020 : Rapport d'anomalie erreoné suite à changement de nom société -- TMC - Correctif -- 308.0 -- Livré -- AV06-16 -- 9.020023753E9 -- 42522.0 -- 308.0 -- 
+534.0 -- artf71103  -- Data Retriever -- Devis phase de cadrage "Recherche des données archivées" -- TMC - Correctif -- 4461.0 -- Livré -- AV06-16 -- 9.020018237E9 -- 42522.0 -- 4461.0 -- 
+535.0 -- artf71273  -- BI4 - Adhérence PDP -- Devis de Réalisation - Taux d'Adhérence PDP -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+536.0 -- artf71642  -- BI4 - Adhérence PDP -- Devis pour phase de cadrage - "Taux d'adhérence du PDP" -- Socle -- 5067.0 -- Livré -- AV06-16 -- 9.020021915E9 -- 42522.0 -- 5067.0 -- 
+537.0 -- artf72844  -- PORTAIL PRISMA -- Portail Prisma - Version 1.1.0 -- BI4  -- 4462.0 -- Payé (446) -- AV07-16 -- 9.020023753E9 -- 42552.0 -- 4015.7999999999997 -- 
+538.0 -- artf75138  -- GESTION PRESTA -- Devis Analyse / Incident - Gestion des Prestataires artf71652 : Erreur log de la création d'une nouvelle demande -- TME - Evolutif -- 304.0 -- Livré -- AV07-16 -- 9.020023753E9 -- 42552.0 -- 304.0 -- 
+539.0 -- artf76783 -- Autres -- Devis pour intervention sur Fougères - Introduction au plan de bascule WS2012 -- TMC - Correctif -- 1890.0 -- Livré -- AV07-16 -- 9.020023753E9 -- 42552.0 -- 1890.0 -- 
+540.0 -- artf77116  -- Data Retriever -- Devis de réalisation DR - Data Retriever -- Socle -- 23636.0 -- Livré -- AV08-16 -- 9.020018237E9 -- 42583.0 -- 15363.399999999998 -- 
+541.0 -- artf77169  -- BUYBOX -- Devis Correction Anomalie - BuyBox - Erreur sur procédure SQL  -- Dev. Rapide -- 798.0 -- Livré -- AV08-16 -- 9.020023753E9 -- 42583.0 -- 798.0 -- 
+542.0 -- artf77479  -- HELIUM -- HELIUM 1.6 - Proposition fonctionnelle et Devis  -- TMC - Correctif -- 13244.0 -- Payé (1324) -- AV09-16 -- 9.020023753E9 -- 42614.0 -- 11919.599999999999 -- 
+543.0 -- artf78147  -- Data Retriever -- Data Retriever - Modification du format de fichier catalogue  -- Socle -- 842.0 -- Livré -- AV09-16 -- 9.020018237E9 -- 42614.0 -- 547.3 -- 
+artf78157  -- TRS -- TRS - Version 2.1 -- Dev. Rapide -- 4833.0 -- Livré -- AV09-16 -- 42614.0 -- 4349.7 -- 
+544.0 -- artf78157  -- TRS -- TRS - Version 2.1 - 10% -- Dev. Rapide -- 4833.0 -- Livré -- AV09-16 -- 63501111706149 -- 9.020023753E9 -- 42614.0 -- 63501111706149 -- 
+545.0 -- artf79174  -- TRACE QC -- TRACE QC - Entrée en TMA - Rédaction documentaire -- Socle -- 2016.0 -- 7819.0 -- Terminé -- AV09-16 -- 9.020023753E9 -- 42614.0 -- 7819.0 -- 
+546.0 -- artf79201  -- Demande Informatisée -- DI - Entrée en TMA - Rédaction documentaire -- Entrée en TMA -- 2016.0 -- 11191.0 -- Terminé -- AV09-16 -- 9.020023753E9 -- 42614.0 -- 11191.0 -- 
+547.0 -- artf79203  -- Account Manager -- Account Manager - Entrée en TMA + Dossier de Tests -- Entrée en TMA -- 0.0 -- Refusé -- AV09-16 -- Refusé -- 42614.0 -- 0.0 -- 
+548.0 -- artf79527  -- HELIUM -- HELIUM 1.6.0 - Manuel Utilisateur -- Entrée en TMA -- 950.0 -- Livré -- AV10-16 -- 9.020023753E9 -- 42644.0 -- 950.0 -- 
+549.0 -- artf80151 -- Demande Informatisée -- Demande Informatique - Version 2.0 -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+550.0 -- artf80171 -- RETEX -- RETEX - Version 3.1 (Avis de Service 0 heure) -- TME - Evolutif -- 12444.0 -- Payé (11 200) -- AV11-16 -- 9.020040223E9 -- 42675.0 -- 0.0 -- 
+551.0 -- artf80604 -- GESTION PRESTA -- Gestion des Prestataires - Devis de réalisation version 1.3.0 -- TME - Evolutif -- 3873.0 -- Payé (968) -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 3485.7 -- 
+552.0 -- artf80609 -- TRACE QC -- Trace QC - Document de support à la recette métier Gestion des Constitutions -- TME - Evolutif -- 2016.0 -- 1251.0 -- Terminé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 1251.0 -- 
+553.0 -- artf80777 -- Autres -- Analyse des impacts du retrait des droits sysadmin sur un groupe de sécurité SQL -- Socle -- 542.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 542.0 -- 
+554.0 -- artf80778 -- RETEX -- RETEX V3 - Réinstallation de la version d'entrée en TMA -- Entrée en TMA -- 421.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 421.0 -- 
+555.0 -- artf80911  -- Autres -- Entrée en TMA de plusieurs applications DSI -- Entrée en TMA -- 2017.0 -- 11210.0 -- Terminé -- AV11-16 -- 63501111803477 -- 9.02005077E9 -- 42675.0 -- 0.0 -- 63501111803477 -- 
+557.0 -- artf80938 -- Data Retriever -- Devis pour Analyse / Incident - Data Retriever - artf80938 -- TMC - Correctif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+558.0 -- artf81090  -- Projet PAC -- Cockpit Espace de Pilotage - Mise à jour du cahier des charges -- Entrée en TMA -- 2016.0 -- 1805.0 -- Terminé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 1805.0 -- 
+559.0 -- artf81205  -- PORTAIL PRISMA -- Devis pour Analyse / Incident - Portail PRISMA - artf80213 -- Service catalogué -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+560.0 -- artf81208  -- Reception Dossier -- Devis pour Analyse / Incident - Reception Dossier - artf80843 -- TMC - Correctif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+561.0 -- artf81211  -- Jobs SSIS -- Devis pour Analyse / Incident - Jobs SSIS - artf80835 -- TMC - Correctif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+562.0 -- artf81215  -- Rapport SSRS -- Devis pour Analyse / Incident - Rapport SSRS - artf80641 -- TMC - Correctif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+563.0 -- artf81218  -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - artf80833 -- TMC - Correctif -- 798.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 798.0 -- 
+564.0 -- artf81221  -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - artf80623 -- TMC - Correctif -- 798.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 798.0 -- 
+565.0 -- artf81705  -- WEST -- Devis de phase de cadrage - Outil RSTE -- TMC - Correctif -- 2017.0 -- 15579.0 -- Terminé -- AV11-16 -- 63501111706149 -- 9.020023753E9 -- 42675.0 -- 0.0 -- 63501111706149 -- 
+566.0 -- artf81782  -- INPACT -- Devis pour Entrée en TMA - INPACT -- Dev. Rapide -- 1710.0 -- Payé -- AV11-16 -- 63501111741060 -- 9.02005077E9 -- 42675.0 -- 0.0 -- 63501111741060 -- 
+567.0 -- artf81791  -- Jobs SSIS -- Devis pour Analyse / Incident - Jobs SSIS - artf80845 -- Entrée en TMA -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+568.0 -- artf81792  -- BUYBOX -- Devis pour Analyse / Incident - Buybox - artf81249 (cotation manuelle) -- TMC - Correctif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+569.0 -- artf81793  -- BUYBOX -- Buybox - Modification de la procédure stockée pour permettre le lancement de cotation manuelle -- TMC - Correctif -- 950.0 -- Payé -- AV01-17 -- 9.020023753E9 -- 42705.0 -- 950.0 -- 
+570.0 -- artf81802  -- ESM -- Devis pour Analyse / Incident - ESM - artf81612 (mutation refusée à tord) -- TME - Evolutif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+571.0 -- artf81803  -- ESM -- ESM - Modification de Web Service SagemServices (label société et établissement) -- TMC - Correctif -- 1263.0 -- Payé -- AV01-17 -- 9.020023753E9 -- 42705.0 -- 1263.0 -- 
+572.0 -- artf81917  -- Reception Dossier -- Entrée en TMA : Rédaction Documentaire de Reception Dossier -- TME - Evolutif -- 6137.0 -- Payé -- AV11-16 -- 63501111742141 -- 9.02005077E9 -- 42675.0 -- 0.0 -- 63501111742141 -- 
+573.0 -- artf81918  -- Suivi Ordre -- Entrée en TMA : Rédaction Documentaire de Suivi Ordre -- Entrée en TMA -- 7581.0 -- Payé -- AV11-16 -- 63501111741075 -- 9.02005077E9 -- 42675.0 -- 0.0 -- 63501111741075 -- 
+574.0 -- artf81922  -- WS Extraction SAP -- Entrée en TMA : Rédaction Documentaire de WS Extraction SAP -- Entrée en TMA -- 5776.0 -- Payé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 0.0 -- 
+575.0 -- artf81923  -- Gestion Ordre -- Entrée en TMA : Rédaction Documentaire de Gestion Ordre -- Entrée en TMA -- 2166.0 -- Payé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 2166.0 -- 
+576.0 -- artf81951  -- ESM -- Devis pour Analyse / Incident - ESM - artf81031 (Tâche en cours) -- Entrée en TMA -- 304.0 -- Payé -- AV11-16 -- 63501111706149 -- 9.020023753E9 -- 42675.0 -- 0.0 -- 63501111706149 -- 
+577.0 -- artf81952  -- ESM -- Devis pour Analyse / Incident - ESM - artf81515 (clôture sans validation) -- TMC - Correctif -- 304.0 -- Livré -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+578.0 -- artf81953  -- Fond Documentaire -- Devis pour Analyse / Incident - Fond Documentaire - artf81810 (lenteur de chargement) -- TMC - Correctif -- 304.0 -- Payé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 304.0 -- 
+579.0 -- artf81955  -- VEX -- Devis pour Analyse / Incident - Projection VEX - artf81780 (données incomplètes) -- TMC - Correctif -- 798.0 -- Payé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 798.0 -- 
+580.0 -- artf81956  -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - artf81815 (PrepaBaseArticle) -- TMC - Correctif -- 798.0 -- Payé -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 798.0 -- 
+581.0 -- artf82335 -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - artf80845 -- Socle -- 798.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 798.0 -- 
+582.0 -- artf82457 -- Data Retriever -- Devis pour Evolution - Data Retriever - Pagination de l'écran de consultation des logs -- TMC - Correctif -- 2017.0 -- 758.0 -- Terminé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 0.0 -- 547.0 -- 211.0 -- 
+583.0 -- artf82457 -- Data Retriever -- Devis pour Evolution - Data Retriever - Pagination de l'écran de consultation des logs -- 2017.0 -- 84.0 -- Terminé -- AV12-16 -- 63501111741052 -- 84.2 -- 9.02005077E9 -- 63501111741052 -- 84.2 -- 
+584.0 -- artf82709  -- Data Retriever -- Devis pour Evolution - Data Retriever - Ajout de la date d'archivage + Export de la sélection -- TME - Evolutif -- Dev. Rapide -- 3476.0 -- Payé (1217) -- AV12-16 -- 63501111741052 -- 9.02005077E9 -- 42705.0 -- 0.0 -- 63501111741052 -- 
+585.0 -- artf82709  -- Data Retriever -- Devis pour Evolution - Data Retriever - Ajout de la date d'archivage + Export de la sélection -- 3476.0 -- Payé (1217) -- AV12-16 -- 3128.3999999999996 -- 2259.3999999999996 -- 869.0 -- 
+586.0 -- artf82790  -- Fond Documentaire -- Entrée en TMA : Rédaction Documentaire de Fond Documentaire -- TME - Evolutif -- 7581.0 -- Payé -- AV12-16 -- 63501111741052 -- 9.02005077E9 -- 42705.0 -- 0.0 -- 63501111741052 -- 
+587.0 -- artf82871  -- Gestion Structures -- artf82871 : Entrée en TMA : Rédaction Documentaire de Gestion Structures -- TME - Evolutif -- 7581.0 -- Payé -- AV12-16 -- 63501111723409 -- 9.02005077E9 -- 42705.0 -- 0.0 -- 63501111723409 -- 
+588.0 -- artf82872  -- Analyse Adhérence PDP -- Entrée en TMA : Rédaction Documentaire d'Analyse Adhérence PDP -- Entrée en TMA -- 6498.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 0.0 -- 
+589.0 -- artf82881  -- GESTION PRESTA -- Gestion des Prestataires - Mise à jour des données en masse -- Entrée en TMA -- 632.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 632.0 -- 
+590.0 -- artf82980  -- Jobs SSIS -- Devis pour Analyse / Incident - Projection VEX - Tables SAP - artf82631 -- Entrée en TMA -- 304.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 304.0 -- 
+591.0 -- artf82981  -- Jobs SSIS -- Devis pour Analyse / Incident - Jobs SSIS - INC000001555476 et INC000001555855 -- Service catalogué -- 304.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 304.0 -- 
+592.0 -- artf82982  -- Autres -- Base TRACE - Extraction de données (artf82968) -- TMC - Correctif -- 421.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 421.0 -- 
+593.0 -- artf83520  -- Analyse Adhérence PDP -- Analyse Adhérence PDP - Livraison du script correctif pour affichage des données 2017 -- Service catalogué -- 380.0 -- Livré -- AV01-17 -- 63501111706149 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 63501111706149 -- 
+594.0 -- artf83670  -- RETEX -- RETEX – Avis de Service 0H - Devis BI4 de l'EBI n°4 -- Socle -- 2017.0 -- 4180.0 -- Terminé -- AV01-17 -- 63501111732084 -- 9.02004656E9 -- 42736.0 -- 0.0 -- 63501111732084 -- 
+595.0 -- artf83670  -- RETEX -- RETEX – Avis de Service 0H - Devis BI4 de l'EBI n°4 -- 2017.0 -- 4180.0 -- Terminé -- AV01-17 -- 63501111744745 -- 418.0 -- 9.02004656E9 -- 42736.0 -- 63501111744745 -- 418.0 -- 
+596.0 -- artf83672  -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - artf83040 -- TME - Evolutif -- 1596.0 -- Livré -- AV01-17 -- 63501111706149 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 63501111706149 -- 
+597.0 -- artf83738  -- SAMA -- Devis pour Correction Anomalie - SAMA - artf81463 (Dysfonctionnement Firefox) -- TME - Evolutif -- 798.0 -- Livré -- AV03-17 -- 9.020023107E9 -- 42767.0 -- 0.0 -- 63501111706134 -- 
+598.0 -- artf83947  -- Analyse Adhérence PDP -- Analyse Adhérence PDP - Modification des rapports et graphiques (données 2017) -- TMC - Correctif -- 2017.0 -- 1710.0 -- Terminé -- AV01-17 -- 63501111706149 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 63501111706149 -- 
+599.0 -- artf83951  -- Analyse Adhérence PDP -- Analyse Adhérence PDP - Version 1.1.0 + Combinaisons Années/mois -- TMC - Correctif -- 7030.0 -- Payé -- AV04-17 -- 63501111720515 -- 9.02005077E9 -- 42795.0 -- 0.0 -- 63501111720515 -- 
+600.0 -- artf83951  -- Analyse Adhérence PDP -- Analyse Adhérence PDP - Version 1.1.0 + Combinaisons Années/mois -- 7030.0 -- Payé -- AV04-17 -- 63501111741060 -- 703.0 -- 9.02005077E9 -- 42795.0 -- 63501111741060 -- 703.0 -- 
+601.0 -- artf83951  -- Analyse Adhérence PDP -- Analyse Adhérence PDP - Version 1.1.0 + Combinaisons Années/mois -- 7030.0 -- Payé -- AV04-17 -- 63501111723409 -- 1757.5 -- 9.02005077E9 -- 42795.0 -- 63501111723409 -- 1757.5 -- 
+602.0 -- artf83973  -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - Blocking Processus -- TME - Evolutif -- 798.0 -- Livré -- AV01-17 -- 63501111706149 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 63501111706149 -- 
+603.0 -- artf83981  -- Jobs SSIS -- Devis pour Cartographie complète et détaillée des Jobs SSIS -- TME - Evolutif -- 28339.0 -- Payé -- AV04-17 -- 63501111723409 -- 9.02005077E9 -- 42795.0 -- 0.0 -- 63501111723409 -- 
+604.0 -- artf83998  -- WEST -- Devis pour l'application WEST -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+605.0 -- artf84205  -- Suivi Ordre -- Suivi Ordre Lot 1 -- Service catalogué -- 4028.0 -- Payé (3625) -- AV05-17 -- 63501111742141 -- 9.02005077E9 -- 42826.0 -- 0.0 -- 63501111742141 -- 
+606.0 -- artf84205  -- Suivi Ordre -- Suivi Ordre Lot 1 -- 4028.0 -- Payé (3625) -- AV05-17 -- 63501111749357 -- 1007.0 -- 9.02005077E9 -- 63501111749357 -- 1007.0 -- 
+607.0 -- artf84205  -- Suivi Ordre -- Suivi Ordre Lot 1 -- 4028.0 -- Payé (3625) -- AV05-17 -- 63501111803489 -- 402.8 -- 9.02005077E9 -- 63501111803489 -- 402.8 -- 
+608.0 -- artf84210  -- BUYBOX -- Devis pour Correction Anomalie - BuyBox - Lancement auto. des cotations -- TME - Evolutif mode Projet -- 798.0 -- Payé -- AV01-17 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 
+609.0 -- artf84219  -- Demande Informatisée -- Demande Informatique - Version 2.0 (Nouvelle version de devis) -- TME - Evolutif -- 8911.0 -- Payé -- AV01-17 -- 63501111720515 -- 9.02005077E9 -- 42736.0 -- 0.0 -- 63501111720515 -- 
+610.0 -- artf84219  -- Demande Informatisée -- Demande Informatique - Version 2.0 (Nouvelle version de devis) -- 8911.0 -- Payé -- AV01-17 -- 63501111741060 -- 891.1 -- 9.02005077E9 -- 42736.0 -- 63501111741060 -- 891.1 -- 
+611.0 -- artf84219  -- Demande Informatisée -- Demande Informatique - Version 2.0 (Nouvelle version de devis) -- 8911.0 -- Payé -- AV01-17 -- 63501111723409 -- 2227.75 -- 9.02005077E9 -- 42736.0 -- 63501111723409 -- 2227.75 -- 
+612.0 -- artf84392  -- TRACE QC -- Devis - Déploiement rapports SSRS de TraceQC2 sur l'environnement d'intégration -- TMC - Correctif -- 304.0 -- Payé -- AV01-17 -- 63501111713518 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 63501111713518 -- 
+613.0 -- artf84779 -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - INC000001606445 - artf84702 -- TMC - Correctif -- 798.0 -- Payé -- AV03-17 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 
+614.0 -- artf84781 -- Jobs SSIS -- Devis pour Analyse / Incident - Gestion Ordre & Jobs SSIS - Changement Mot de Passe FFGR0003 -- Socle -- 304.0 -- Payé -- AV03-17 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 
+615.0 -- artf84786 -- Jobs SSIS -- Devis pour Evolution Jobs SSIS - Import Article - Amélioration des plages de requetes SAP -- TMC - Correctif -- 950.0 -- Payé -- AV03-17 -- 63501111720521 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 63501111720521 -- 
+616.0 -- artf84787 -- Jobs SSIS -- Devis pour Correction Anomalie - Jobs SSIS - artf84193 -- TMC - Correctif -- 798.0 -- Payé -- AV03-17 -- 63501111720521 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 63501111720521 -- 
+617.0 -- artf84979 -- Rapport SSRS -- artf81320 : EtatArticleFab : filtrer les produits en fonction de la typo et de la gamme -- TME - Evolutif -- 0.0 -- Annulé -- AV10-17 -- Annulé -- 42856.0 -- 0.0 -- 
+618.0 -- artf84980 -- Jobs SSIS -- artf83020 : ifab_sql2k8_1.fgr.sds.safran : Ouvrir la plage de planification de 3 mois à 6 mois -- TMC - Correctif -- 2017.0 -- 950.0 -- Terminé -- AV03-17 -- 63501111713518 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 63501111713518 -- 
+619.0 -- artf87203 -- WS Extraction SAP -- Entrée en TMA : Rédaction Documentaire de WS Extraction SAP Complement -- TME - Evolutif -- 3249.0 -- Payé -- AV04-17 -- 63501111720521 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111720521 -- 3249.0 -- 
+620.0 -- artf87206 -- Demande Informatisée -- Devis pour Analyse / Incident - Demande Informatique - Utilisateur de la liste de diffusion -- TME - Evolutif -- 2017.0 -- 304.0 -- Terminé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+621.0 -- artf87208 -- Jobs SSIS -- Devis pour Analyse / Incident - Jobs SSIS - ADM.usp_createAD -- Entrée en TMA -- 2017.0 -- 304.0 -- Terminé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+622.0 -- artf87210 -- ESM -- Devis pour Analyse / Incident - ESM - Incident sur Shareplace intégration -- TMC - Correctif -- 2017.0 -- 304.0 -- Terminé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+623.0 -- artf87212 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS Surveillance hebdo GRPR (artf77300) -- TMC - Correctif -- 2017.0 -- 7213.0 -- Terminé -- AV03-17 -- 63501111713523 -- 9.020021915E9 -- 42767.0 -- 0.0 -- 63501111713523 -- 
+624.0 -- artf87212 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS Surveillance hebdo GRPR (artf77300) -- 2017.0 -- 63501111732118 -- 721.3000000000001 -- 9.020021915E9 -- 63501111732118 -- 721.3000000000001 -- 
+625.0 -- artf87213 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS WO849536 DDD (artf77312) -- TMC - Correctif -- 2017.0 -- 9510.0 -- Terminé -- AV03-17 -- 63501111741181 -- 9.020021915E9 -- 42767.0 -- 0.0 -- 63501111741181 -- 
+626.0 -- artf87213 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS WO849536 DDD (artf77312) -- 2017.0 -- 9510.0 -- Terminé -- AV03-17 -- 8559.0 -- 9.020021915E9 -- 42767.0 -- 8559.0 -- 
+627.0 -- artf87214 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS WO849536 FFT (artf77312) -- BI4  -- 2017.0 -- 9510.0 -- Terminé -- AV03-17 -- 63501111732118 -- 9.020021915E9 -- 42767.0 -- 0.0 -- 63501111732118 -- 
+628.0 -- artf87214 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS WO849536 FFT (artf77312) -- 2017.0 -- 9510.0 -- Terminé -- AV03-17 -- 63501111751558 -- 951.0 -- 9.020021915E9 -- 42767.0 -- 63501111751558 -- 951.0 -- 
+629.0 -- artf87287 -- WS Extraction SAP -- Devis pour la prise en compte de documents de type WRD,PPX,WRM,XLX,WRX dans WS_Extraction_SAP (artf81317) -- BI4  -- 950.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111723409 -- 
+630.0 -- artf87412 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS Correction Univers (artf72945) -- BI4  -- 2017.0 -- 2388.0 -- Terminé -- AV03-17 -- 63501111713523 -- 9.020021915E9 -- 42767.0 -- 0.0 -- 63501111713523 -- 
+631.0 -- artf87412 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS Correction Univers (artf72945) -- 2017.0 -- 63501111732118 -- 238.8 -- 9.020021915E9 -- 63501111732118 -- 238.8 -- 
+632.0 -- artf87436 -- AGES -- Devis pour Evolution - AGES - Changement de raison sociale -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+634.0 -- artf87589 -- Trace Add -- Devis pour Analyse / Incident - Trace Add - INC000001588389 - Dysfonctionnement -- Socle -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+636.0 -- artf87594 -- BUYBOX -- BUYBOX - INC000001625887 - Job Import DataSheets -- TMC - Correctif -- 304.0 -- Payé -- AV03-17 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 
+637.0 -- artf87733 -- Wiki -- Devis de rattrapage d'activité - Wiki - artf78469 - Ajout d'un menu -- TMC - Correctif -- 304.0 -- Payé -- AV04-17 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 
+638.0 -- artf87789 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS Mise en place requête Sagem Maroc (art87190) -- TMC - Correctif -- 2017.0 -- 6606.0 -- Terminé -- AV04-17 -- 63501111732118 -- 9.020021915E9 -- 42795.0 -- 0.0 -- 63501111732118 -- 
+639.0 -- artf87789 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS Mise en place requête Sagem Maroc (art87190) -- 2017.0 -- 6606.0 -- Terminé -- AV04-17 -- 63501111751558 -- 660.6 -- 9.020021915E9 -- 42795.0 -- 63501111751558 -- 660.6 -- 
+640.0 -- artf87795 -- Reconf env int -- Devis pour les actions one-shot liées au nouvel environnement d'intégration -- TME - Evolutif -- 1805.0 -- Payé -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+641.0 -- artf88072 -- Jobs SSIS -- Devis pour Analyse INC000001630387 job PVAI -- BI4  -- 304.0 -- Livré -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+642.0 -- artf88073 -- PORTAIL PRISMA -- Devis pour analyse de INC000001629936 : Portail Prisma - accès au portail RTDI- Dysfonctionnement -- Mise en place -- 304.0 -- Payé -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+643.0 -- artf88074 -- Fond Documentaire -- Entrée en TMA Fond Documentaire : prise en compte nouvelles sources -- TMC - Correctif -- 812.0 -- Payé -- AV04-17 -- 63501111723409 -- 9.02005077E9 -- 42795.0 -- 0.0 -- 63501111723409 -- 
+644.0 -- artf88076 -- Reconf env int -- Nouvel environnement d'intégration - Analyse one-shot -- TMC - Correctif -- 1064.0 -- Payé -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+645.0 -- artf88077 -- Reconf env int -- Nouvel environnement d'intégration - Reconfiguration WS Extraction SAP -- Entrée en TMA -- 1900.0 -- Payé -- AV04-17 -- 63501111720521 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111720521 -- 
+646.0 -- artf88079 -- Suivi Ordre -- Expression de besoin WS FFTP -- Mise en place -- 1083.0 -- Payé -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+647.0 -- artf88080 -- Suivi Ordre -- Analyse 3 fonctions Gestion Constitutions -- Mise en place -- 2166.0 -- Payé -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+648.0 -- artf88145 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Correctif UniversQualité_H.unx (artf87907) -- TME - Evolutif -- 2017.0 -- 1728.0 -- Terminé -- AV04-17 -- 63501111741181 -- 9.020021915E9 -- 42795.0 -- 0.0 -- 63501111741181 -- 
+649.0 -- artf88145 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Correctif UniversQualité_H.unx (artf87907) -- 2017.0 -- 1728.0 -- Terminé -- AV04-17 -- 1555.1999999999998 -- 9.020021915E9 -- 42795.0 -- 1555.1999999999998 -- 
+650.0 -- artf88499 -- Data Retriever -- Data Retriever V2 -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+651.0 -- artf88500 -- Gestion Ordre -- Nouvel environnement d'intégration - Reconfiguration Gestion Ordre -- BI4  -- 950.0 -- Payé -- AV05-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+652.0 -- artf88501 -- TRACE QC -- Trace QC : Désactivation Constitutions + Reconfiguration nouvel environnement d'intégration -- TME - Evolutif -- 2584.0 -- Payé -- AV05-17 -- 63501111720515 -- 9.02005077E9 -- 42826.0 -- 0.0 -- 63501111720515 -- 
+653.0 -- artf88502 -- BUYBOX -- Correction incident Buybox : Envoi des RFQ vers les fournisseurs bloqué (artf88295) -- Mise en place -- 2017.0 -- 798.0 -- Terminé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+654.0 -- artf88503 -- Fond Doc&DI -- Devis pour Demande Informatique - Fond documentaire: Espace disque insuffisant (artf88426) -- TME - Evolutif -- 608.0 -- Payé -- AV16-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+655.0 -- artf88504 -- Jobs SSIS -- Devis pour INC000001631852 Job « T 0200 -Trace Importation du matin » -- TMC - Correctif -- 2017.0 -- 304.0 -- Terminé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+656.0 -- artf88505 -- Jobs SSIS -- Devis pour INC000001642156 Job SQL Trace Importation articles (4h00) en erreur -- TMC - Correctif -- 304.0 -- Payé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+657.0 -- artf88506 -- AGES -- Devis pour INC000001646340 Batch AGES sorti en erreur -- TMC - Correctif -- 2017.0 -- 304.0 -- Terminé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+658.0 -- artf88507 -- Jobs SSIS -- Devis pour INC000001646996 Jobs SQL en erreur sur iFAB_SQL2K8_1 -- TMC - Correctif -- 304.0 -- Payé -- AV05-17 -- 63501111713518 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111713518 -- 
+659.0 -- artf88508 -- BI4 - 0H -- Devis pour Activité BI4 - Univers Zéroheure - Correctif à apporter (artf87905) -- TMC - Correctif -- 2017.0 -- 1728.0 -- Terminé -- AV05-17 -- 63501111741181 -- 9.020021915E9 -- 42826.0 -- 0.0 -- 63501111741181 -- 
+660.0 -- artf88508 -- BI4 - 0H -- Devis pour Activité BI4 - Univers Zéroheure - Correctif à apporter (artf87905) -- 2017.0 -- 1728.0 -- Terminé -- AV05-17 -- 1555.1999999999998 -- 9.020021915E9 -- 42826.0 -- 1555.1999999999998 -- 
+661.0 -- artf88509  -- BI4 - CASCADE -- Devis pour Activité BI4-CASCADE : ajout de nouvelles tables dans HANA (artf87861&77480) -- TMC - Correctif -- 2017.0 -- 3752.0 -- Terminé -- AV05-17 -- 63501111751558 -- 9.020021915E9 -- 42826.0 -- 0.0 -- 63501111751558 -- 
+662.0 -- artf88509  -- BI4 - CASCADE -- Devis pour Activité BI4-CASCADE : ajout de nouvelles tables dans HANA (artf87861&77480) -- 2017.0 -- 3752.0 -- Terminé -- AV05-17 -- 375.0 -- 9.020084745E9 -- 43132.0 -- 375.0 -- 
+663.0 -- artf88677 -- Data Retriever -- Data Retriever V2 - Release 1 -- BI4  -- 950.0 -- Payé -- AV05-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+664.0 -- artf88678 -- Data Retriever -- Data Retreiver V2 - Release 2 -- Socle -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+665.0 -- artf88679 -- Analyse Adhérence PDP -- Analyse Adhérence PDP - table ZPP2_ORG_FAB: modification de la longueur de 4 zones (88020) -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+666.0 -- artf88683 -- PORTAIL PRISMA -- Portail Prisma : Modification page d'accueil -- TME - Evolutif -- 380.0 -- Payé -- AV05-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+667.0 -- artf88684 -- RETEX -- RETEX V3.2 -- TME - Evolutif -- 4166.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111723409 -- 
+668.0 -- artf88684 -- RETEX -- RETEX V3.2 -- 4166.0 -- Payé -- AV14-17 -- 63501111741075 -- 416.6 -- 9.02005077E9 -- 63501111741075 -- 416.6 -- 
+669.0 -- artf88684 -- RETEX -- RETEX V3.2 -- 4166.0 -- Payé -- AV14-17 -- 63501111741052 -- 1041.5 -- 9.02005077E9 -- 42887.0 -- 63501111741052 -- 1041.5 -- 
+670.0 -- artf88858 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Univers MM-ARTDIV (artf87906) -- TME - Evolutif -- 2017.0 -- 5259.0 -- Terminé -- AV07-17 -- 63501111727097 -- 9.020021915E9 -- 42826.0 -- 0.0 -- 63501111727097 -- 
+671.0 -- artf88858 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Univers MM-ARTDIV (artf87906) -- 2017.0 -- 5259.0 -- Terminé -- AV07-17 -- 63501111733725 -- 525.9 -- 9.020021915E9 -- 63501111733725 -- 525.9 -- 
+672.0 -- artf88859 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Univers MM-LOST (artf87954) -- Socle -- 2017.0 -- 1948.0 -- Terminé -- AV07-17 -- 63501111727097 -- 9.020021915E9 -- 42826.0 -- 0.0 -- 63501111727097 -- 
+673.0 -- artf88859 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Univers MM-LOST (artf87954) -- 2017.0 -- 1948.0 -- Terminé -- AV07-17 -- 63501111733725 -- 194.8 -- 9.020021915E9 -- 63501111733725 -- 194.8 -- 
+674.0 -- artf89214 -- BI4 - 0H -- Devis pour Activité BI4 - Univers Zéroheure - Correctif à apporter (artf88535) -- BI4  -- 2017.0 -- 2992.0 -- Terminé -- AV07-17 -- 63501111741181 -- 9.020021915E9 -- 42826.0 -- 0.0 -- 63501111741181 -- 
+675.0 -- artf89214 -- BI4 - 0H -- Devis pour Activité BI4 - Univers Zéroheure - Correctif à apporter (artf88535) -- 2017.0 -- 2992.0 -- Terminé -- AV07-17 -- 2692.7999999999997 -- 9.020021915E9 -- 42826.0 -- 2692.7999999999997 -- 
+676.0 -- artf89218 -- HELIUM -- Correction anomalie Helium : problème d'export (artf88976) -- BI4  -- 456.0 -- Payé -- AV14-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+677.0 -- artf89220 -- HELIUM -- Analyse&Support - Helium - artf88883 -- BI4  -- 456.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+678.0 -- artf89221 -- BUYBOX -- BUYBOX - Correction anomalie (artf88715) -- TMC - Correctif -- 1406.0 -- Payé -- AV10-17 -- 63501111720515 -- 9.02005077E9 -- 42826.0 -- 0.0 -- 63501111720515 -- 
+679.0 -- artf89282 -- Projection VEX -- Devis pour analyse/correction de INC000001677645 - Projection VEX - Dysfonctionnement -- TMC - Correctif -- 1102.0 -- Payé -- AV07-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+680.0 -- artf89285 -- Projection VEX -- Devis pour correction anomalies Projection VEX - INC000001631852 / INC000001632617 / INC000001673304 -- TMC - Correctif -- 798.0 -- Payé -- AV07-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+681.0 -- artf89286 -- Fond Documentaire -- Nouvel environnement d'intégration - Reconfiguration Fond Documentaire -- TMC - Correctif -- 1254.0 -- Payé -- AV14-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+682.0 -- artf89288 -- Gestion Article -- Nouvel environnement d'intégration - Reconfiguration Gestion Article -- TMC - Correctif -- 3135.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111723409 -- 
+683.0 -- artf89289 -- Demande Informatisée -- Demandes Informatiques - Modification de 2 listes déroulantes base BSM (artf89209) -- Mise en place -- 380.0 -- Payé -- AV07-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+684.0 -- artf89316 -- BUYBOX -- BUYBOX V1.5 Analyse -- Mise en place -- 4332.0 -- Payé -- AV14-17 -- 63501111723409 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111723409 -- 
+685.0 -- artf89317  -- BUYBOX -- BUYBOX V1.5 -- TME - Evolutif -- 2018.0 -- 11656.0 -- Terminé -- AV14-17 -- 63501111749357 -- 9.02005077E9 -- 42887.0 -- 63501111749357 -- 
+686.0 -- artf89317  -- BUYBOX -- BUYBOX V1.5 -- 2018.0 -- 11656.0 -- Terminé -- AV14-17 -- 63501111803497 -- 2914.0 -- 9.02005077E9 -- 43101.0 -- 63501111803497 -- 2914.0 -- 
+687.0 -- artf89317  -- BUYBOX -- BUYBOX V1.5 -- 2018.0 -- 11656.0 -- Terminé -- AV14-17 -- 43160.0 -- 9.02005077E9 -- 43160.0 -- 1165.6000000000001 -- 
+688.0 -- artf89331 -- Cockpit Operator -- Cockpit Operator - Suppression du login iG080906 (artf87842) v1.1 -- TME - Evolutif -- 1311.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42826.0 -- 0.0 -- 63501111723409 -- 
+689.0 -- artf89394 -- Data Retriever -- Data Retriever V2 : Release 2 V2 -- TME - Evolutif -- 0.0 -- Refusé -- Refusé -- 0.0 -- 
+690.0 -- artf89399 -- Jobs SSIS -- Evolution job SSIS (INC000001573996) -- TME - Evolutif -- 950.0 -- Payé -- AV14-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+691.0 -- artf89401 -- EASYFLOW RH -- Easyflow RH - Script archivage -- TME - Evolutif -- 3040.0 -- Payé -- AV10-17 -- 63501111741052 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111741052 -- 
+692.0 -- artf89401 -- EASYFLOW RH -- Easyflow RH - Script archivage -- 3040.0 -- Payé -- AV10-17 -- 63501111741060 -- 760.0 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111741060 -- 760.0 -- 
+693.0 -- artf89401 -- EASYFLOW RH -- Easyflow RH - Script archivage -- 3040.0 -- Payé -- AV10-17 -- 63501111742141 -- 304.0 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111742141 -- 304.0 -- 
+694.0 -- artf89425 -- WS Information Article -- Nouvel environnement d'intégration - Reconfiguration WS_InformationArticle -- TME - Evolutif -- 2128.0 -- Payé -- AV14-17 -- 63501111723409 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111723409 -- 
+695.0 -- artf89959 -- INPACT -- Entrée en TMA INPACT - MAJ DS -- TME - Evolutif -- 722.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111723409 -- 
+696.0 -- artf89960 -- RETEX -- RETEX - transcodification_'Demandeur'(artf89490&89886) -- Mise en place -- 950.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111723409 -- 
+697.0 -- artf89961 -- Jobs SSIS -- artf83020 : Ouvrir la plage de planification de 3 mois à 6 mois - MAJ Job -- Entrée en TMA -- 380.0 -- Payé -- AV14-17 -- 63501111741060 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741060 -- 
+698.0 -- artf89963 -- Jobs SSIS -- Devis pour analyses de multiples incidents ITSM -- TME - Evolutif -- 3952.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+699.0 -- artf90032 -- WS_Identification -- Entrée en TMA : Rédaction Documentaire WSIdentification -- TME - Evolutif -- 1444.0 -- Payé -- AV14-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+700.0 -- artf90033 -- WebServiceMail -- Entrée en TMA : Rédaction Documentaire WebServiceMail -- TMC - Correctif -- 1444.0 -- Payé -- AV14-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+701.0 -- artf90034 -- Gestion Article -- Entrée en TMA : Rédaction Documentaire Gestion Article (DATG) -- Entrée en TMA -- 2527.0 -- Payé -- AV14-17 -- 63501111741060 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741060 -- 
+702.0 -- artf90385 -- BI4 - 0H -- Devis pour Activité BI4 - Univers Zéroheure - Textes longs (artf88323) -- Socle -- 2017.0 -- 10970.0 -- Terminé -- AV11-17 -- 63501111732084 -- 9.020059909E9 -- 42887.0 -- 0.0 -- 63501111732084 -- 
+703.0 -- artf90385 -- BI4 - 0H -- Devis pour Activité BI4 - Univers Zéroheure - Textes longs (artf88323) -- 2017.0 -- 10970.0 -- Terminé -- AV11-17 -- 63501111751941 -- 1097.0 -- 9.020059909E9 -- 42887.0 -- 0.0 -- 63501111751941 -- 1097.0 -- 
+704.0 -- artf90386 -- BUYBOX -- Devis pour analyse INC000001704582 job Trace BuyBox -- Socle -- 304.0 -- Payé -- AV14-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+705.0 -- artf90817 -- Suivi Ordre -- PAC - Suivi Ordre - Ajout des Constitutions - Cadrage (artf89771) -- BI4  -- 2017.0 -- 2166.0 -- Terminé -- AV17-17 -- 63501111744748 -- 9.020066942E9 -- 42979.0 -- 0.0 -- 63501111744748 -- 
+706.0 -- artf90820 -- Fond Documentaire -- PAC : Fond Documentaire - Ajout FFTP&DDD - Cadrage (artf89918) -- TMC - Correctif -- 2166.0 -- Payé -- AV17-17 -- 63501111742325 -- 9.020066943E9 -- 42979.0 -- 0.0 -- 63501111742325 -- 2166.0 -- 
+707.0 -- artf90840 -- RETEX -- RETEX V3.3 – Ajustements EBI3 -- TME - Evolutif -- 2017.0 -- 3368.0 -- Terminé -- AV17-17 -- 63501111733887 -- 9.020059909E9 -- 42948.0 -- 0.0 -- 63501111733887 -- 
+708.0 -- artf90840 -- RETEX -- RETEX V3.3 – Ajustements EBI3 -- 2017.0 -- 3368.0 -- Terminé -- AV17-17 -- 63501111744746 -- 336.8 -- 9.020059909E9 -- 63501111744746 -- 336.8 -- 
+709.0 -- artf90840 -- RETEX -- RETEX V3.3 – Ajustements EBI3 -- 2017.0 -- 3368.0 -- Terminé -- AV17-17 -- 2189.2 -- 2189.2 -- 
+710.0 -- artf90860 -- BI4 - GITIS -- Devis pour Activité BI4 - Univers GITIS - Nouvel Univers (artf88259) -- TME - Evolutif -- 2017.0 -- 8140.0 -- Terminé -- AV14-17 -- 63501111741181 -- 9.020021915E9 -- 42887.0 -- 0.0 -- 63501111741181 -- 
+711.0 -- artf90860 -- BI4 - GITIS -- Devis pour Activité BI4 - Univers GITIS - Nouvel Univers (artf88259) -- 2017.0 -- 8140.0 -- Terminé -- AV14-17 -- 63501111751563 -- 814.0 -- 9.020021915E9 -- 42887.0 -- 63501111751563 -- 814.0 -- 
+712.0 -- artf91028 -- BI4 - GITIS -- Devis pour Activité BI4 - Univers GITIS - Ajout colonne "DDD+Statut" (artf89662) -- TME - Evolutif -- 2017.0 -- 2212.0 -- Terminé -- AV14-17 -- 63501111732118 -- 9.020021915E9 -- 42887.0 -- 0.0 -- 63501111732118 -- 
+713.0 -- artf91028 -- BI4 - GITIS -- Devis pour Activité BI4 - Univers GITIS - Ajout colonne "DDD+Statut" (artf89662) -- 2017.0 -- 2212.0 -- Terminé -- AV14-17 -- 63501111751558 -- 221.20000000000002 -- 9.020021915E9 -- 42887.0 -- 0.0 -- 63501111751558 -- 221.20000000000002 -- 
+714.0 -- artf91029 -- BI4 - PRMO -- Devis pour Activité BI4 - Anomalie&Analyse Univers (artf90110) -- BI4  -- 2017.0 -- 2961.0 -- Terminé -- AV14-17 -- 63501111751558 -- 9.020021915E9 -- 43132.0 -- 0.0 -- 63501111751558 -- 2664.9 -- 
+715.0 -- artf91029 -- BI4 - PRMO -- Devis pour Activité BI4 - Anomalie&Analyse Univers (artf90110) -- 2017.0 -- 2961.0 -- Terminé -- AV14-17 -- 296.0 -- 9.020084745E9 -- 43132.0 -- 296.0 -- 
+716.0 -- artf91042 -- Suivi Ordre -- Projet PAC - Suivi Ordre - Prise en compte des Temps Machine -- BI4  -- 9301.0 -- Payé (6045,65) -- AV17-17 -- 63501111742323 -- 9.020066942E9 -- 42979.0 -- 0.0 -- 63501111742323 -- 
+717.0 -- artf91042 -- Suivi Ordre -- Projet PAC - Suivi Ordre - Prise en compte des Temps Machine -- 9301.0 -- Payé (6045,65) -- AV17-17 -- 3255.35 -- PAC -- 43132.0 -- 3255.35 -- 
+718.0 -- artf91068 -- Data Retriever -- Data Retriever V2 - Simplification -- BI4  -- 8420.0 -- Payé (5473) -- AV14-17 -- 63501111741060 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741060 -- livraison bis -- 
+719.0 -- artf91068 -- Data Retriever -- Data Retriever V2 - Simplification -- 8420.0 -- Payé (5473) -- AV14-17 -- 63501111803497 -- 2105.0 -- 9.02005077E9 -- 42887.0 -- 63501111803497 -- 2105.0 -- 
+720.0 -- artf91068 -- Data Retriever -- Data Retriever V2 - Simplification -- 8420.0 -- Payé (5473) -- AV14-17 -- 43191.0 -- 842.0 -- 9.02005077E9 -- 42887.0 -- 842.0 -- 
+721.0 -- artf91213 -- KIOSQUE -- Kiosque - Correction Anomalies - artf88511 & artf88510 -- TME - Evolutif -- 2018.0 -- 2204.0 -- Terminé -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 182.8 -- 
+722.0 -- artf91246 -- Shareplace -- Devis pour Analyse / Incident - INC000001693511 - Incident Shareplace -- TME - Evolutif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+723.0 -- artf91247 -- Demande Informatisée -- Devis pour Analyse / Incident - INC000001700776 - DI - incident mails -- TMC - Correctif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+724.0 -- artf91248 -- Demande Informatisée -- Devis pour Analyse / Incident - INC000001707164 -DI - pièces-jointes -- TMC - Correctif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+725.0 -- artf91249 -- ESM -- Devis pour Analyse&Support - ESM - artf81031 : L'utilisateur ne voit aucune action attendue dans ses taches en cours -- TMC - Correctif -- 2018.0 -- 456.0 -- Terminé -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+726.0 -- artf91250 -- Reception Dossier -- Devis pour Analyse&Support - INC000001701198 : Reception Dossier -- TMC - Correctif -- 1216.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+727.0 -- artf91251 -- Jobs SSIS -- Devis pour Analyse / Incident - ITMS - INC000001738417 (multiples jobs en erreur) -- TMC - Correctif -- 2432.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+728.0 -- artf91252 -- Jobs SSIS -- Devis pour Analyse / Incident - INC000001717903 (jobs “process et maintenance” et buybox) - analyse -- TMC - Correctif -- 608.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+729.0 -- artf91253 -- Jobs SSIS -- Devis pour Analyse / Incident - INC000001712961 : Erreur du job "Trace : Achat - Importation synthèse RFQ journalier (3h45)" -- TMC - Correctif -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+730.0 -- artf91254 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Correctif (Univers Qualité) (artf91203) -- TMC - Correctif -- 2017.0 -- 859.0 -- Terminé -- AV16-17 -- 63501111741181 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111741181 -- 
+731.0 -- artf91254 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Correctif (Univers Qualité) (artf91203) -- 2017.0 -- 859.0 -- Terminé -- AV16-17 -- 63501111751563 -- 85.9 -- 9.020021915E9 -- 42948.0 -- 63501111751563 -- 85.9 -- 
+732.0 -- artf91303 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Complément extraction des FFT (artf91224) -- TMC - Correctif -- 2017.0 -- 2599.0 -- Terminé -- AV16-17 -- 63501111741181 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111741181 -- 
+733.0 -- artf91303 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Complément extraction des FFT (artf91224) -- 2017.0 -- 2599.0 -- Terminé -- AV16-17 -- 63501111751563 -- 259.90000000000003 -- 9.020021915E9 -- 42948.0 -- 63501111751563 -- 259.90000000000003 -- 
+734.0 -- artf91432 -- Fond Documentaire -- PAC : Fond Documentaire - Ajout FFTP&DDD - Réalisation (artf89918) -- TME - Evolutif -- 2018.0 -- 8420.0 -- Terminé -- AV17-17 -- 9.020066943E9 -- 42979.0 -- 0.0 -- 8420.0 -- 
+735.0 -- artf91434 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO – Rapports statistiques (artf91207) -- BI4  -- 2017.0 -- 3994.0 -- Terminé -- AV16-17 -- 63501111741181 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111741181 -- 
+736.0 -- artf91434 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO – Rapports statistiques (artf91207) -- 2017.0 -- 3994.0 -- Terminé -- AV16-17 -- 63501111751563 -- 399.40000000000003 -- 9.020021915E9 -- 42948.0 -- 63501111751563 -- 399.40000000000003 -- 
+737.0 -- artf91544 -- Gestion Article -- Entrée en TMA : Rédaction Documentaire Gestion Article (DT) -- TME - Evolutif -- 2018.0 -- 2888.0 -- Terminé -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+738.0 -- artf91548 -- WS Extraction SAP -- Rédaction Documentaire WS Extraction SAP 2003 (DT) -- BI4  -- 4332.0 -- Attente GO -- Pas de commande -- 0.0 -- 
+739.0 -- artf91549 -- WS Extraction SAP -- Rédaction Documentaire WS Extraction SAP 2012 (DT) -- Entrée en TMA -- 2166.0 -- Attente GO -- Pas de commande -- 0.0 -- 
+740.0 -- artf91762 -- Reception Dossier -- Nouvel environnement d'intégration - Reconfiguration Reception Dossier (artf91355) -- Entrée en TMA -- 1995.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+741.0 -- artf91768 -- BUYBOX -- Devis pour Analyse / Incident - Envoi des fichiers RFQ bloqué (artf89334) -- Entrée en TMA -- 304.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+742.0 -- artf91769 -- RETEX -- Devis pour Correction Anomalie - RETEX - REQ00002100079 -- Mise en place -- 798.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+743.0 -- artf91770 -- Jobs SSIS -- Devis pour Analyse / Incident - Doublons de sous-ensemble dans la nomenclature d'un produit (artf87563) -- TMC - Correctif -- 304.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+744.0 -- artf91773 -- INPACT -- Entrée en TMA - Inpact - Windows 2008 -- TMC - Correctif -- 1710.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+745.0 -- artf91842 -- BI4 - CASCADE -- Devis pour Activité BI4 - CASCADE – MEP RUC_01 (artf91606) -- TMC - Correctif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+746.0 -- artf91845 -- BI4 - 0H -- Devis pour Activité BI4 - 0 Heure – Analyse chargement delta (artf91695) -- Entrée en TMA -- 2017.0 -- 1267.0 -- Terminé -- AV16-17 -- 63501111733725 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111733725 -- 
+747.0 -- artf91845 -- BI4 - 0H -- Devis pour Activité BI4 - 0 Heure – Analyse chargement delta (artf91695) -- 2017.0 -- 1267.0 -- Terminé -- AV16-17 -- 63501111751986 -- 126.7 -- 9.020021915E9 -- 63501111751986 -- 126.7 -- 
+748.0 -- artf91915 -- BI4 - PRMO -- Devis pour Activité BI4 - PRMO - Correctif (Univers Qualité) (artf91203) - Complément -- BI4  -- 2017.0 -- 270.0 -- Terminé -- AV16-17 -- 63501111741181 -- 9.020021915E9 -- 42948.0 -- 0.0 -- 63501111741181 -- 
+749.0 -- artfXXX01 -- HELIUM -- 4 analyses Hors Garantie -- TMC - Correctif -- 1347.0 -- Livré -- OLD -- 7.710563784E9 -- 41791.0 -- 1347.0000000000002 -- 
+750.0 -- artfXXX02 -- KIOSQUE -- Avant vente PNS -- TME - Evolutif -- 1401.0 -- Livré -- OLD -- 7.710563784E9 -- 41913.0 -- 1401.0 -- 
+806.0 -- N/A -- EASYFLOW RH -- Devis 2017 - Easyflow Desinstallation (mode op et support) -- TME - Evolutif -- 878.0 -- En cours -- AV20-17 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+807.0 -- N/A -- Kiosque -- Devis 2017 - Kiosque - WO0000001210411 -- Socle -- 1828.0 -- En cours -- AV20-17 -- 43191.0 -- 9.02005077E9 -- 43191.0 -- 
+808.0 -- N/A -- Kiosque -- Devis 2017 - Kiosque - WO0000001210411 -- Socle -- 1828.0 -- En cours -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+810.0 -- N/A -- BI4 - 0H -- Devis pour Activité BI4 - INC000001910118 -- TME - Evolutif -- 880.0 -- En cours -- AV20-17 -- 63501111807217 -- 9.020070636E9 -- 43070.0 -- 0.0 -- 63501111807217 -- 
+811.0 -- N/A -- Autre -- Devis pour Activité BI4 - Prestation Support -- Demande Support -- 43146.0 -- 9800.0 -- En cours -- AV19-17 -- 9.020060013E9 -- 43040.0 -- 0.0 -- 9800.0 -- 
+812.0 -- N/A -- BI4 -- Devis pour Activité BI4 - Retrodocumentation -- TME - Evolutif -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+815.0 -- N/A -- Socle -- Socle Decembre 2017 -- Socle -- 1608.0 -- En cours -- AV20-17 -- 63501111803489 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803489 -- 
+817.0 -- N/A -- Socle -- Socle Novembre 2017 -- Demande Support -- 1608.0 -- En cours -- AV19-17 -- 63501111803477 -- 9.02005077E9 -- 43040.0 -- 0.0 -- 63501111803477 -- 
+818.0 -- REQ000002311176 -- GESTION PRESTA -- Devis 2017 - GDP - Script Mise à jour des données en masse - WO0000001213262 -- TMC - Correctif -- 963.0 -- En cours -- AV20-17 -- 63501111803497 -- 9.02005077E9 -- 43070.0 -- 0.0 -- 63501111803497 -- 
+840.0 -- AGES -- AGES, définition et étude des besoins -- Service catalogué -- 7400.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 7400.0 -- 
+841.0 -- AGES -- AGES, développement de l'application, phase 1 -- TME - Evolutif mode Projet -- 42555.0 -- Livré -- OLD -- 7.71049714E9 -- 41456.0 -- 42555.0 -- 
+842.0 -- AGES -- AGES, développement de l'application, phase 2 -- TME - Evolutif mode Projet -- 2014.0 -- 16346.0 -- Terminé -- OLD -- 7.710551236E9 -- 41456.0 -- 16346.0 -- 
+843.0 -- AGES -- AGES, développement de l'application, supports -- TME - Evolutif mode Projet -- 2014.0 -- 9632.0 -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 9632.0 -- 
+846.0 -- BUYBOX -- Aide à l'installation de BUY-BOX à Massy -- Service catalogué -- 1202.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 1202.0 -- 
+847.0 -- CHIMED -- CHIMED : Evolution du module de conversion de fichier -- TME - Evolutif -- 934.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 933.9999999999999 -- 
+848.0 -- CHIMED -- CHIMED : Réalisation d'un module de conversion de fichier -- TME - Evolutif -- 6164.0 -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 6164.0 -- 
+854.0 -- CHIMED -- CHIMED, développement de la version v1.1 -- TME - Evolutif -- 934.0 -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 933.9999999999999 -- 
+862.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°1 -- BI4  -- 43115.0 -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+863.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°10 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+864.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°11 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+867.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°12 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+868.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°14 (13 bis) -- BI4  -- 3532.0 -- Annulé -- Annulé -- 0.0 -- 
+869.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°2 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+870.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°3 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+871.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°4 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+872.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°5 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+873.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°6 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+874.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°7 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+875.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°8 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+876.0 -- BI4 - 0H -- Devis pour Activité BI4 - Rapport Webi 0h n°9 -- BI4  -- 0.0 -- Annulé -- Annulé -- 0.0 -- 
+877.0 -- DIAPASON -- DIAPASON : Aide à l'installation à Massy -- Service catalogué -- 2869.0 -- Terminé -- OLD -- 7.71049714E9 -- 41365.0 -- 2869.0 -- 
+879.0 -- ESM / CHRONOS -- ESM/CHRONOS : Aide à l'installation à Massy -- Service catalogué -- 2690.0 -- Terminé -- OLD -- 7.71049714E9 -- 41365.0 -- 2690.0 -- 
+880.0 -- HELIUM -- HELIUM, Ateliers RDV -- Service catalogué -- 28040.0 -- Terminé -- OLD -- 7.71049714E9 -- 41518.0 -- 28040.0 -- 
+881.0 -- ICS -- ICS -- Service catalogué -- 2015.0 -- 16014.0 -- Terminé -- OLD -- 7.710612557E9 -- 41974.0 -- 16014.0 -- 
+882.0 -- KIOSQUE -- KIOSQUE : Aide à l'installation à Massy -- Service catalogué -- 2869.0 -- Terminé -- OLD -- 7.71049714E9 -- 41365.0 -- 2869.0 -- 
+883.0 -- KIOSQUE -- KIOSQUE, ajout d'un rôle dans le plan de classement -- TME - Evolutif -- 2802.0 -- Terminé -- OLD -- 7.71049714E9 -- 41456.0 -- 2802.0 -- 
+884.0 -- SOCLE -- Mise en place -- Mise en place -- 2013.0 -- 45000.0 -- Terminé -- OLD -- 7.71049714E9 -- 41334.0 -- 45000.0 -- 
+885.0 -- QPI -- Outils de mesure de la satisfaction client Incidents : QPI -- TME - Evolutif mode Projet -- 15878.0 -- En garantie -- OLD -- 7.71049714E9 -- 41518.0 -- 15878.0 -- 
+886.0 -- SOCLE -- Présentation du processus d'entrée en TMA à Massy -- Service catalogué -- 1432.0 -- Terminé -- OLD -- 7.71049714E9 -- 41365.0 -- 1432.0 -- 
+887.0 -- KIOSQUE -- Présentation PRISMA 2015 -- Service catalogué -- Livré -- AV06-15 -- 7.710612471E9 -- 42125.0 -- 0.0 -- 
+888.0 -- KIOSQUE -- Prototype GITIS -- TME - Evolutif -- Livré -- AV04-15 -- 7.710563784E9 -- 42064.0 -- 1868.0 -- 
+889.0 -- KIOSQUE -- Réalisation du Lot #1 d'évolution pour l'application KIOSQUE -- TME - Evolutif -- 7472.0 -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 7471.999999999999 -- 
+890.0 -- KIOSQUE -- Réalisation du Lot #2 d'évolution pour l'application KIOSQUE -- TME - Evolutif -- 8406.0 -- Terminé -- OLD -- 7.71049714E9 -- 41426.0 -- 8406.0 -- 
+891.0 -- SOCLE -- Socle : infrastructure 2013 -- Socle -- Mensuel -- OLD -- 7.71049714E9 -- 41334.0 -- 14112.0 -- 
+892.0 -- SOCLE -- Socle : infrastructure 2014 -- Socle -- Mensuel -- OLD -- 7.710551236E9 -- 41640.0 -- 18816.0 -- 
+893.0 -- SOCLE -- Socle : infrastructure 2015 - Avril -- Socle -- Mensuel -- AV05-15 -- 7.710612471E9 -- 42095.0 -- 1568.0 -- 
+894.0 -- SOCLE -- Socle : infrastructure 2015 - Janvier/Février -- Socle -- Mensuel -- AV03-15 -- 7.710612471E9 -- 42095.0 -- 3136.0 -- 
+895.0 -- SOCLE -- Socle : infrastructure 2015 - Mars -- Socle -- Mensuel -- AV04-15 -- 7.710612471E9 -- 42095.0 -- 1568.0 -- 
+896.0 -- SOCLE -- Socle : prestations transverses (activités de pilotage, élaboration de devis, …) -- Socle -- 19352.0 -- Mensuel -- OLD -- 7.71049714E9 -- 41518.0 -- 19352.0 -- 
+897.0 -- SOCLE -- Socle Aout -- Socle -- 1568.0 -- Mensuel -- AV08-15 -- 7.710612471E9 -- 42217.0 -- 1568.0 -- 
+898.0 -- SOCLE -- Socle Aout 2016 -- TME - Evolutif -- 1568.0 -- Mensuel -- AV08-16 -- 9.020023753E9 -- 42583.0 -- 1568.0 -- 
+899.0 -- SOCLE -- Socle Août 2017 -- Entrée en TMA -- 1568.0 -- Payé -- AV16-17 -- 63501111741075 -- 9.02005077E9 -- 42948.0 -- 0.0 -- 63501111741075 -- 
+900.0 -- SOCLE -- Socle Avril 2016 -- Socle -- 1568.0 -- Mensuel -- AV04-16 -- 9.020023753E9 -- 42461.0 -- 1568.0 -- 
+901.0 -- SOCLE -- Socle Avril 2017 -- TME - Evolutif -- 1568.0 -- Payé -- AV07-17 -- 63501111720521 -- 9.020023753E9 -- 42826.0 -- 0.0 -- 63501111720521 -- 
+902.0 -- SOCLE -- Socle Décembre -- Socle -- 1568.0 -- Mensuel -- AV12-15 -- 9.02000766E9 -- 42339.0 -- 1568.0 -- 
+903.0 -- SOCLE -- Socle Décembre 2016 -- TMC - Correctif -- 1568.0 -- Payé -- AV12-16 -- 9.020023753E9 -- 42705.0 -- 1568.0 -- 
+904.0 -- SOCLE -- Socle Février 2016 -- Socle -- 1568.0 -- Mensuel -- AV02-16 -- 9.02000766E9 -- 42401.0 -- 1568.0 -- 
+905.0 -- SOCLE -- Socle Février 2017 -- BI4  -- 1568.0 -- Payé -- AV03-17 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 
+906.0 -- SOCLE -- Socle Janvier 2016 -- Socle -- 1568.0 -- Mensuel -- AV01-16 -- 9.02000766E9 -- 42370.0 -- 1568.0 -- 
+907.0 -- SOCLE -- Socle Janvier 2017 -- TME - Evolutif -- 1568.0 -- Payé -- AV01-17 -- 63501111706149 -- 9.020023753E9 -- 42736.0 -- 0.0 -- 63501111706149 -- 
+908.0 -- SOCLE -- Socle Juillet -- Socle -- 1568.0 -- Mensuel -- AV08-15 -- 7.710612471E9 -- 42217.0 -- 1568.0 -- 
+909.0 -- SOCLE -- Socle Juillet 2016 -- Service catalogué -- 1568.0 -- Mensuel -- AV07-16 -- 9.020023753E9 -- 42552.0 -- 1568.0 -- 
+910.0 -- SOCLE -- Socle Juillet 2017 -- Socle -- 1568.0 -- Payé -- AV10-17 -- 63501111741060 -- 9.02005077E9 -- 42917.0 -- 0.0 -- 63501111741060 -- 
+911.0 -- SOCLE -- Socle juin -- Socle -- 1568.0 -- Mensuel -- AV07-15 -- 7.710612471E9 -- 42156.0 -- 1568.0 -- 
+912.0 -- SOCLE -- Socle Juin 2016 -- Dev. Rapide -- 1568.0 -- Mensuel -- AV06-16 -- 9.020023753E9 -- 42522.0 -- 1568.0 -- 
+913.0 -- SOCLE -- Socle Juin 2017 -- Entrée en TMA -- 1568.0 -- Payé -- AV10-17 -- 63501111741052 -- 9.02005077E9 -- 42887.0 -- 0.0 -- 63501111741052 -- 
+914.0 -- SOCLE -- Socle Mai -- Socle -- Mensuel -- AV06-15 -- 7.710612471E9 -- 42125.0 -- 1568.0 -- 
+915.0 -- SOCLE -- Socle Mai 2016 -- Socle -- 1568.0 -- Mensuel -- AV05-16 -- 9.020023753E9 -- 42491.0 -- 1568.0 -- 
+916.0 -- SOCLE -- Socle Mai 2017 -- Entrée en TMA -- 1568.0 -- Payé -- AV10-17 -- 63501111723409 -- 9.02005077E9 -- 42856.0 -- 0.0 -- 63501111723409 -- 
+917.0 -- SOCLE -- Socle Mars 2016 -- Socle -- 1568.0 -- Mensuel -- AV03-16 -- 9.02000766E9 -- 42430.0 -- 1568.0 -- 
+918.0 -- SOCLE -- Socle Mars 2017 -- BI4  -- 1568.0 -- Payé -- AV04-17 -- 63501111713518 -- 9.020023753E9 -- 42795.0 -- 0.0 -- 63501111713518 -- 
+919.0 -- SOCLE -- Socle Novembre -- Socle -- 1568.0 -- Mensuel -- AV11-15 -- 9.02000766E9 -- 42309.0 -- 1568.0 -- 
+920.0 -- SOCLE -- Socle Novembre 2016 -- TMC - Correctif -- 1568.0 -- Mensuel -- AV11-16 -- 9.020023753E9 -- 42675.0 -- 1568.0 -- 
+921.0 -- SOCLE -- Socle Octobre -- Socle -- 1568.0 -- Mensuel -- AV10-15 -- 7.710612471E9 -- 42278.0 -- 1568.0 -- 
+922.0 -- SOCLE -- Socle Octobre 2016 -- Entrée en TMA -- 1568.0 -- Mensuel -- AV10-16 -- 9.020023753E9 -- 42644.0 -- 1568.0 -- 
+923.0 -- Socle Octobre 2017 -- BI4  -- 1608.0 -- Payé -- AV18-17 -- 63501111749357 -- 9.02005077E9 -- 43009.0 -- 0.0 -- 63501111749357 -- 
+924.0 -- SOCLE -- Socle Septembre -- Socle -- 1568.0 -- Mensuel -- AV09-15 -- 7.710612471E9 -- 42248.0 -- 1568.0 -- 
+925.0 -- SOCLE -- Socle Septembre 2016 -- TME - Evolutif -- 1568.0 -- Mensuel -- AV09-16 -- 9.020023753E9 -- 42614.0 -- 1568.0 -- 
+926.0 -- SOCLE -- Socle Septembre 2017 -- TMC - Correctif -- Payé -- AV17-17 -- 63501111742141 -- 9.02005077E9 -- 42979.0 -- 0.0 -- 63501111742141 -- 
+927.0 -- KIOSQUE -- Support cahier de test exécution des tests Kiosque -- Service catalogué -- 1494.0 -- Terminé -- OLD -- 7.71049714E9 -- 41395.0 -- 1494.0 -- 
+801.0 -- INCT000071838 -- Alaric -- Jobs SSIS -- Le batch (ZPP_UPDATE_FFF_MARC ) de recopie des données du PART dominant sur le MATP mis en place le 20/04/18 ne fonctionne pas correctement -- 20180423 : Ce batch est inconnu à Capgemini --> Wrong Assignation
+Mise en production de nouveaux batch ? Documentation existante ? Sur quelle base travaille ce job ? Modifie-t-il des données ? -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43213.0 -- 43213.0 -- 
+761.0 -- WO0000001261899 -- Projection VEX -- Devis pour Projection VEX - artf88784 -- Historiquement : Livraison effectuée mais KO. A reprendre -- TME - Evolutif -- 4 - En cours -- 43157.0 -- 1254.0 -- En cours -- AV02-18 -- 43132.0 -- 9.020084746E9 -- 43132.0 -- 43207.0 -- 0.0 -- 
+930.0 -- INCT000054079  -- restauration de fichier -- 20180504 : A déplacer en Wrong Assignation. Les restaurations de fichiers sont gérés par les équipes infra.
+20180427 : En attente du retour de l'utilisatrice -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43195.0 -- 43216.0 -- 
+933.0 -- AVOIR FACTURE 63501111751983 -- 63501111754785 -- -6202.2 -- 9.020070636E9 -- 43100.0 -- 
+791.0 -- INCT000058189 -- Simon -- RETEX -- Transfert des données clients dans la base de fiabilité de RETEX ; constitution des avions et livraisons des avions -- 20180425 : récupération du fichier en erreur pour reproduction du problème et analyse du code
+20180420 : Incident revenu chez TMA CAP
+20180419 : Ticket rebougé par Alina FLUTURE -- TMC - Correctif - DRC2 -- 4 - En cours -- 3 - Medium -- 43200.0 -- 43209.0 -- 
+756.0 -- INC000001927144 -- Simon -- BUYBOX -- [BUYBOX] données achat non intégrées dans les devis -- 20180525 : Analyse envoyée par mail. En attente vérification C. Cariou
+20180503 : En cours d’analyse de la source de donnée mastersynthèse
+20180502 : Point téléphonique fait ce jour avec Alaric - le sujet est toujours d'actualité. Il a été convenu dans un premier temps de dire de quelles bases de données exactement est constituée la table mastersynthèse et de me fournir la liste des fournisseurs qui figurent dans cette table afin que je puisse analyser et trouver des jeux de données à tester en preprod. C.Cariou
+20180424 : Webex est prévue le 02/05/2018 avec Christelle à son retour de vacances -- Christelle Cariou -- TMC - Correctif - DRC1 -- 99 - En attente -- 3 - Medium -- 43081.0 -- 43245.0 -- En Cours -- 9.020084746E9 -- 
+INCT000111372  -- Adhérence PDP -- Impossible d'accéder à l'adhérence PDP -- TMC - Correctif - DRC1 -- 99 - En attente -- 3 - Medium -- 43256.0 -- 
+INCT000097315 -- Job SSIS / Trace : Importation hierarchie document process et maintenance -- TMC - Correctif - DRC1 -- 99 - En attente -- 3 - Medium -- 43243.0 -- 
+INCT000096672 -- William -- VEX -- Problème VEX -- 20180601 : L'incident est dû au fait que des personnes ont rajouté une grosse quantité de données sur la table de travail de VEX. Pour résoudre le problème, nous avons donc dû faire une modification du code de la procédure pour s'adapter aux modifications faites en interne.
+20180531 : Contact B. MEUR pour infos
+20180524 : En attente execution job ce we
+20180523 : "l'outil de projection VEX ne fonctionne pas (http://ifab_sql2k8_1.fgr.sds.safran/ReportServer/Pages/ReportViewer.aspx?/Vex/ProjectionVex_Detail&rs:Command=Ren" -- Thierry BARDET -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium -- 43243.0 -- 43252.0 -- 798.0 -- 9.020084746E9 -- 43221.0 -- 798.0 -- 
+785.0 -- INCT000038956 -- Simon -- Jobs SSIS -- Erreur d'execution des jobs SQL SRV1048 - MyData Automatique -- 20180516 : Le fichier d'échange est un fichier de conf Windows. La mémoire n'est pas suffisante pour le fonctionnement du job --> Il faut revoir l'architecture du package pour pouvoir le faire fonctionner. Discuter du point avec X. LEGOASTER
+20180504 : Le fichier n'est pas intégré car il est trop volumineux par rapport à la RAM (5Go). Ce n'est pas un fichier de volumétrie normale (quelques Ko). Contacter X. LEGOASTER pour avoir davantage d'informations. -- TMC - Correctif - DRC1 -- 4 - En cours -- 3 - Medium -- 43180.0 -- 43263.0 -- 9.020084746E9 -- 
+INCT000096130 -- Simon -- BUYBOX -- Envoi des RFQ bloqué -- 20180531 : Résolution PROD OK Fermeture du ticket
+20180530 : Correction sur INT. En attente de résolution prod. Support téléphonique OK
+20180523 : Envoi de l'analyse au métier. En attente validation
+20180522 : "l’envoi des fichiers RFQ pour appel d’offres vers les fournisseurs est bloqué. J’aurais besoin de connaitre le paramétrage KO qui bloque les envois afin de pouvoir le corriger et donc débloquer." -- Christelle Cariou -- TMC - Correctif - DRC1 -- 8 - Résolu -- 1 - Critical  -- 43242.0 -- 43251.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 304.0 -- 
+780.0 -- INCT000037475 -- William -- BUYBOX -- Menu Articles à valider pour RFQ - liste incomplète  -- 20180517 : MEP effectuée. Fermeture du ticket
+20180424 : Livraison effectuée. En attente de MEP.
+20180423 : Analyse terminée. Solution corrigée. Livraison prévue pour 24/04
+20180420 : Des modifications ont été apportées aux procédures stockées correspondant aux mises à jour et récupération des RFQ via l'application. Le problème est lié à ces modifications.
+Réunion nécessaire avec Christelle CARIOU pour comprendre pourquoi les évolution techniques apportés ont mis en échec la remontée des donnés RFQ.
+20180418 : Incident non reproductible sur DEV Capgemini ==> la fonctionnalité est opérationnelle -- TMA - Garantie -- 8 - Résolu -- 3 - Medium -- 43179.0 -- 43179.0 -- 43214.0 -- 9.020084746E9 -- 0.0 -- 
+939.0 -- INCT000081638 -- Demande Informatique -- [DEMANDE INFORMATIQUE] Dysfonctionnement -- 20180515 : Première analyse. Demande d'infos clients. Réponse : le problème n'est plus d'actualité. Fermeture du ticket -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43223.0 -- 43235.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 
+940.0 -- INCT000087088 -- Simon -- BUYBOX -- [Applications Web]An error has been thrown by the application cockpitAchats 1.5.0 -- 20180515 : Problème non reproduit. Le client ne reproduit plus le soucis non plus. Fermeture du ticket -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43234.0 -- 43235.0 -- 0.0 -- 9.020084746E9 -- 
+941.0 -- SOCLE -- Socle Fevrier 2018 -- Socle -- 9.020084746E9 -- 43221.0 -- 
+942.0 -- SOCLE -- Socle Mars 2018 -- Socle -- 9.020084746E9 -- 43221.0 -- 
+943.0 -- SOCLE -- Socle Avril 2018 -- Socle -- 9.020084746E9 -- 43221.0 -- 
+944.0 -- SOCLE -- Socle Mai 2018 -- Socle -- 9.020084746E9 -- 43221.0 -- 
+945.0 -- SOCLE -- Socle Juin 2018 -- Socle -- 9.020084746E9 -- 1568.0 -- 
+946.0 -- SOCLE -- Socle Juillet 2018 -- Socle -- 9.020084746E9 -- 
+947.0 -- SOCLE -- Socle Août 2018 -- Socle -- 9.020084746E9 -- 
+948.0 -- SOCLE -- Socle Septembre 2018 -- Socle -- 9.020084746E9 -- 
+949.0 -- SOCLE -- Socle Octobre 2018 -- Socle -- 9.020084746E9 -- 
+SOCLE -- Socle Novembre 2018 -- Socle -- 9.020084746E9 -- 
+SOCLE -- Socle Décembre 2018 -- Socle -- 9.020084746E9 -- 
+INCT000091665  -- Shareplace -- Acces impossible à certains documents shareplace -- 20180517 : Réception de l'INC. On ne peut pas consulter les documents du shareplace ni les telecharger  -- TMC - Correctif - DRC1 -- Réaffecté -- 3 - Medium -- 43237.0 -- 43237.0 -- 43237.0 -- 
+INCT000097464  -- William -- Adhérence PDP -- [ED-Appli Web]Dysfonctionnement Erreur de semaine dans la mesure de l'adhérence PDP -- 20180604 : Package OK, correction OK
+20180531 : Contact B. MEUR pour infos
+20180524 : En attente execution job ce we
+20180524 : Les productions prévues en S21 remontent comme des productions attendues en S20. Le résultat de l'adhérence est impactée par cette erreur. Combien de personnes sont concernées ? 50 Combien de jours le dysfonctionnement a-t-il duré ? 7 Comment reproduire le dysfonctionnement constaté ? Le problème n'est pas résolu Quel est l'impact ? Impossibilité d'utiliser les résultats de l'indicateur -- Eric LAVAL -- TMC - Correctif - DRC2 -- 8 - Résolu -- 3 - Medium  -- 43243.0 -- 43252.0 -- 798.0 -- 9.020084746E9 -- 43221.0 -- 798.0 -- 
+INCT000092329  -- William -- Jobs SSIS -- Les sources de données ne se mettent pas à jour (pour régularisation de l'intervention de ce matin) -- 20180517 : La planification du job se terminait aujourd'hui. Réactivation du job -- Romuald JUMEL -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43237.0 -- 43237.0 -- 43237.0 -- 798.0 -- 9.020084746E9 -- 43221.0 -- 798.0 -- 
+INCT000111105 -- William -- Adhérence PDP -- Analyse adhérence PDP -- 20180607 : La MEP n'a pas été faite en entier par ATOS. La partie rapport n'a pas été déployée. En attente execution mail Alain Pele mer. 06/06/2018 17:06
+20180605 : ouverture ticket -- TMC - Correctif - DRC1 -- 99 - En attente -- 3 - Medium -- 43256.0 -- 43258.0 -- 
+793.0 -- INCT000059316 -- William -- VEX --  Application VEX - Temps de réponse -- 20180522 : Point avec infra ATOS ce jour. Le soucis vient de la version de SQL en production. Livraison d'un package correctif ce jour. En attente de passage MEP
+20180427 : Le soucis provient du fait que l'architecture de VEX n'était pas pensée à l'origine pour autant d'appels simultanés. Idée : Voir si on peut générer le fichier le soir pour que les utilisateurs téléchargent le fichier déjà généré (solution temporaire) => Evolution de VEX
+Voir comment faire pour exécuter le fichier Excel VEX depuis nos postes SAFRAN --> Envoyer la description du problème + capture à Majida.
+20180426 : Discussion avec S.THIA. Revue du problème. Nouvelle analyse en cours.
+20180420 : Tests de performance Ancienne vs Nouvelle procédure en cours. Le soucis pourrait il venir de la volumétrie de la bdd TRACE de production >> à INT ? Depuis quand le ralentissement de l'exécution de la procédure est il constaté ? Rappeler Thierry Bardet pour le savoir.
+20180418 : Livraison retour arrière effectuée
+20180416 : Nombreux échanges avec S. THIA. Probablement erreur de performance. A confirmer et voir si on doit faire évoluer -- Thierry Bardet -- TMC - Correctif - DRC1 -- 8 - Résolu -- 2 - High -- 43200.0 -- 43242.0 -- 9.020084746E9 -- 
+819.0 -- WO0000001164669 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Création nouvel univers (REQ000002249501)  -- BI4  -- 99 - En attente -- 43115.0 -- 2018.0 -- 5711.0 -- Terminé -- AV21-17 -- 9.020070636E9 -- 43101.0 -- 0.0 -- 
+751.0 -- INC000001582978 -- William -- Fond Documentaire -- Devis pour Analyse / Incident - Fond Documentaire - INC000001582978 - FGR Anomalie affichage fichiers -- 20180515 : Déploiement correctif sur l'intégration
+20180504 : Point ce jour 15h30.
+20180503 : A. Picard relancé
+20180502 : En attente du retour de A.Picard
+20180426 : Point prévu le 02/05
+20180425 : Lionel HARCHE et Alexandre Picard contactés mais pas de réponse/ Les données utilisées pour les test en intégration ne semblent plus être présentes
+201804xx : Ticket rouvert et revenu chez Capgemini
+20180416 : Ticket passé à Résolu par Liz Palmer -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 42751.0 -- 43235.0 -- 304.0 -- Payé -- AV03-17 -- 9.020023753E9 -- 42767.0 -- 0.0 -- 
+800.0 -- INCT000069573  -- William -- Jobs SSIS -- Disfonctionnement base trace (Régularisation) -- 20180503 : X. LEGOASTER : "Ces jobs  ne seront corrigés qu’une une fois que le resp méthode de FGR m’aura informé par écrit de sa volonté de les remettre en fonctionnement, ce n’est pas le cas à ce jour."
+20180427 : Relance Alain Pele pour passage en prod
+20180420 : cf mail: RE Incidents de chargement sur Trace SRV1048 20/04/2018 10:28:15. En attente de passage en prod de la correction
+@Chloé : Récupérer le mail et le transférer à Majida pour relancer Alain
+Jobs concernés: SurveillanceModif, Trace : Achat – PerfoMatière (23h00), Trace : Calcul TA TP (7h) -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43209.0 -- 43209.0 -- 43210.0 -- 304.0 -- 
+820.0 -- WO0000001164670 -- BI4 - GITIS -- Devis pour Activité BI4 - GITIS – Création nouvel univers (REQ000002249349) -- BI4  -- 99 - En attente -- 43115.0 -- 2018.0 -- 5711.0 -- Terminé -- AV21-17 -- 9.020070636E9 -- 43101.0 -- 0.0 -- 
+754.0 -- INC000001900650 -- William -- KIOSQUE -- TMA 2 KIOSQUE ANO GARANTIE -- 20180427 : Reconfiguration des serveurs terminée. En attente des actions SAFRAN mar. 17/04/2018 16:17
+20180426 : Besoin du mot de passe du compte système pour démarrer le pool d’application et finaliser la reconf
+20180425 : Vérification de la configuration des serveurs en cours
+20180420 : Retour de l'infra OK --> Action Capgemini pour vérification des serveurs
+20180404 : En attente du retour de l'infra pour une configuration des serveurs nominales -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43056.0 -- 43217.0 -- 9.020084746E9 -- 
+INCT000087648  -- William -- Suivi Ordre -- Patrick FRANCESCHINA -- TMC - Correctif - DRC1 -- 8 - Résolu -- 3 - Medium -- 43244.0 -- 43244.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 304.0 -- 
+INCT000097958 -- 8 - Résolu -- 3 - Medium -- 43244.0 -- 43244.0 -- 304.0 -- 9.020084746E9 -- 43221.0 -- 304.0 -- 
+779.0 -- INCT000036662 -- William -- Adhérence PDP -- Variation des résultats sur l'adhérence PDP -- 20180426 : Contact des métiers dans le cadre de la recette PAC --> Analyse des différents cas de doublons abordée. Target --> Point avec Géraldine S18 pour éliminer les doublons pendant la recette.
+20180420 : Vérification que la livraison du PAC pourrait corriger le problème utilisateur
+20180413 : Ticket bougé vers Wrong Assignation par le Help Desk puis rebougé chez Cap
+20180413 : relance ven. 13/04/2018 11:07
+20180409 :lundi 9 avril 2018 15:17 MAIL -- Géraldine Moro -- TMC - Correctif - DRC1 -- 99 - En attente -- 3 - Medium -- 43178.0 -- 9.020084746E9 -- 
+WO0000001279564 -- Thibault -- BI4 -- Ajout de nouveaux champs dans les univers Bi4 -- 8 - Résolu -- 3 - Medium -- 43257.0 -- 43258.0 -- 43258.0 -- 43265.0 -- 2115.0 -- 9.020084745E9 -- 2115.0 -- 
+828.0 -- WO0000001193921 -- Kevin -- GESTION PRESTA -- Devis pour WO0000001193921 - GDP V1.4 -- Formation ALM des users prévue le 16/05 -- TME - Evolutif -- 5 - En Développement -- 43175.0 -- 43182.0 -- 43206.0 -- 2947.0 -- En Cours -- 9.020084746E9 -- 43221.0 -- 0.0 -- 2947.0 -- 
+831.0 -- WO0000001246632 -- William -- Fond Doc - Buybox - Reception Dossier - Gestion Devis -- Migration de répertoires => à rendre configurable dans certaines applications -- 20180228 : BUYBOX => Chiffrage pour passer buybox sur 1780 + prise en compte de la migration
+20180215 :
+Fond Documentaire => une piste trouvée sur l'utilisation du chemin
+Reception Dossier => analyse terminée, devis à formaliser
+Buybox => analyse terminée, devis à formaliser
+Gestion devis => devis fourni
+20180208 : 
+Fond Documentaire => aucun lien trouvé dans le code ni dans les tables associées de la base trace… 
+Reception Dossier => analyse finie. Note : il sera nécessaire de faire un script pour MAJ les données (et non seulement les répertoires) de la base trace
+BUYBOX => analyse longue et compliquée car beaucoup de chemins codés en dur dans l'application et en base + jobs associés --> Chiffrage pour passer buybox sur 1780 + prise en compte de la migration
+Gestion Devis => analyse à faire
+20180201 : Nouveau WO. Target pour les devis en fonction des dates marquées dans la FEBE. -- TME - Evolutif -- 5 - En Développement -- 43132.0 -- 43180.0 -- 43196.0 -- 43217.0 -- 4506.0 -- En Cours -- 9.020084746E9 -- 43221.0 -- 0.0 -- 
+838.0 -- WO0000001269609  -- BI4 -- Envoi d'une personne à Massy pour BI4 - Reporting 0H - Richard -- BI4 -- 5 - En Développement -- 43181.0 -- 18170.0 -- Attente GO -- 9.020084745E9 -- 43221.0 -- 0.0 -- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
