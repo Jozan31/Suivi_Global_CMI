@@ -1,0 +1,13 @@
+package model;
+
+public class Data {
+	
+	private ArrayList<String> values;
+	
+	public Data(int size) {
+		this.values = new String[size];
+	}
+	
+	
+
+}

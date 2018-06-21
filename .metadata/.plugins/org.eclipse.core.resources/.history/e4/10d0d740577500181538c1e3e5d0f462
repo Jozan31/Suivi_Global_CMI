@@ -1,0 +1,22 @@
+package model;
+
+import java.util.ArrayList;
+
+public class DataList {
+	
+	private static DataList instance;
+	
+	private ArrayList<Data> datalist;
+	
+	private DataList() {
+		this.datalist = new ArrayList<Data>();
+	}
+	
+	public static synchronized DataList getInstance() {
+		if(instance == null) {
+			instance = new DataList();
+		}
+		return instance;
+	}
+
+}

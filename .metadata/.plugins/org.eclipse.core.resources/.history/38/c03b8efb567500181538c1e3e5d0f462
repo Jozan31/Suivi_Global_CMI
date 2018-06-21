@@ -1,0 +1,9 @@
+package model;
+
+public class DataList {
+	
+	private static DataList instance;
+	
+	
+
+}

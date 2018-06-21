@@ -1,0 +1,15 @@
+package model;
+
+import java.util.ArrayList;
+
+public class Data {
+	
+	private ArrayList<String> values;
+	
+	public Data(int size) {
+		this.values = new ArrayList<String>();
+	}
+	
+	
+
+}

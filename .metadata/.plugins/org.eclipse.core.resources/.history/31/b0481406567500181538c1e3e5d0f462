@@ -1,0 +1,9 @@
+package model;
+
+public class Data {
+	
+	private static Data instance;
+	
+	
+
+}
