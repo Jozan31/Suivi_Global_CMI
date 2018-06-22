@@ -1,9 +1,12 @@
 package view;
 
+import java.awt.BorderLayout;
 import java.awt.Color;
 
+import javax.swing.JButton;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
@@ -14,6 +17,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 public class Window {
 	
 	public JFrame window;
+	public JFrame window_close;
 	
 	//Barre de menu
 	public JMenuBar menuBar;
@@ -21,17 +25,21 @@ public class Window {
 	public JMenuItem menuItem_import;
 	public JFileChooser filechooser_pathname;
 	
+	
 	//Contenu
 	public JPanel panel;
-	public JPanel panel_datalist;
 	public JTable table;
+	public JPanel panel_close;
+	public JLabel label_close;
+	public JButton yes_button_close;
+	public JButton no_button_close;
 	
 	public Window() {
 		this.window = new JFrame();
+		this.window.setLayout(new BorderLayout());
 		this.window.setSize(1500, 900);
 		this.window.setLocationRelativeTo(null);
 		this.window.setTitle("Suivi Global CMI");
-		this.window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setmenuBar();
 		this.setContent();
 		this.window.setVisible(true);
@@ -61,9 +69,20 @@ public class Window {
 		int returnValue = this.filechooser_pathname.showOpenDialog(null);
 	}
 	
-	public void setDataList() {
-		this.panel_datalist = new JPanel();
-		this.panel_datalist.setBackground(Color.BLUE);
-		this.panel.add(this.panel_datalist);
+	public void setWindowClose() {
+		this.window_close = new JFrame();
+		this.window_close.setTitle("Fermeture de l'application");
+		this.window_close.setLayout(new BorderLayout());
+		this.window_close.setSize(300, 200);
+		this.window_close.setLocationRelativeTo(null);
+		this.panel_close = new JPanel();
+		this.yes_button_close = new JButton("Oui");
+		this.no_button_close = new JButton("Non");
+		this.label_close = new JLabel("Voulez-vous sauvegarder les données?");
+		this.window_close.add(this.panel_close);
+		this.panel_close.add(this.label_close, BorderLayout.CENTER);
+		this.panel_close.add(this.yes_button_close, BorderLayout.SOUTH);
+		this.panel_close.add(this.no_button_close, BorderLayout.SOUTH);
+		this.window_close.setVisible(true);
 	}
 }
